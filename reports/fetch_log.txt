@@ -1,0 +1,20 @@
+unique games to fetch: 880
+progress: 0/880 games, 0 rows
+progress: 50/880 games, 0 rows
+progress: 100/880 games, 0 rows
+progress: 150/880 games, 0 rows
+progress: 200/880 games, 0 rows
+progress: 250/880 games, 0 rows
+progress: 300/880 games, 0 rows
+progress: 350/880 games, 0 rows
+progress: 400/880 games, 0 rows
+progress: 450/880 games, 0 rows
+progress: 500/880 games, 0 rows
+progress: 550/880 games, 0 rows
+progress: 600/880 games, 0 rows
+progress: 650/880 games, 0 rows
+progress: 700/880 games, 0 rows
+progress: 750/880 games, 0 rows
+progress: 800/880 games, 0 rows
+progress: 850/880 games, 0 rows
+DONE: 0 penalty rows written to /app/conversations/6a3ddebce7bbd796cd3467f1/ledger-audit/penalties_full.csv
