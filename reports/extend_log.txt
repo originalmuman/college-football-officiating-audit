@@ -1,0 +1,72 @@
+Michigan 2016: 13 events, 13 rows w/ penalties
+Michigan 2017: 13 events, 13 rows w/ penalties
+Michigan 2018: 13 events, 13 rows w/ penalties
+Michigan 2019: 13 events, 13 rows w/ penalties
+Michigan 2020: 9 events, 6 rows w/ penalties
+Michigan 2021: 14 events, 14 rows w/ penalties
+Michigan 2022: 14 events, 14 rows w/ penalties
+Michigan 2023: 15 events, 15 rows w/ penalties
+Michigan 2024: 13 events, 13 rows w/ penalties
+Michigan 2025: 13 events, 13 rows w/ penalties
+Ohio State 2016: 13 events, 13 rows w/ penalties
+Ohio State 2017: 14 events, 14 rows w/ penalties
+Ohio State 2018: 14 events, 14 rows w/ penalties
+Ohio State 2019: 14 events, 14 rows w/ penalties
+Ohio State 2020: 11 events, 8 rows w/ penalties
+Ohio State 2021: 13 events, 13 rows w/ penalties
+Ohio State 2022: 13 events, 13 rows w/ penalties
+Ohio State 2023: 13 events, 13 rows w/ penalties
+Ohio State 2024: 16 events, 16 rows w/ penalties
+Ohio State 2025: 14 events, 14 rows w/ penalties
+Penn State 2016: 14 events, 14 rows w/ penalties
+Penn State 2017: 13 events, 13 rows w/ penalties
+Penn State 2018: 13 events, 13 rows w/ penalties
+Penn State 2019: 13 events, 13 rows w/ penalties
+Penn State 2020: 9 events, 9 rows w/ penalties
+Penn State 2021: 13 events, 13 rows w/ penalties
+Penn State 2022: 13 events, 13 rows w/ penalties
+Penn State 2023: 13 events, 13 rows w/ penalties
+Penn State 2024: 16 events, 16 rows w/ penalties
+Penn State 2025: 13 events, 13 rows w/ penalties
+Alabama 2016: 15 events, 15 rows w/ penalties
+Alabama 2017: 14 events, 14 rows w/ penalties
+Alabama 2018: 15 events, 15 rows w/ penalties
+Alabama 2019: 13 events, 13 rows w/ penalties
+Alabama 2020: 14 events, 13 rows w/ penalties
+Alabama 2021: 15 events, 15 rows w/ penalties
+Alabama 2022: 13 events, 13 rows w/ penalties
+Alabama 2023: 14 events, 14 rows w/ penalties
+Alabama 2024: 13 events, 13 rows w/ penalties
+Alabama 2025: 15 events, 15 rows w/ penalties
+Georgia 2016: 13 events, 13 rows w/ penalties
+Georgia 2017: 15 events, 15 rows w/ penalties
+Georgia 2018: 14 events, 14 rows w/ penalties
+Georgia 2019: 14 events, 14 rows w/ penalties
+Georgia 2020: 13 events, 10 rows w/ penalties
+Georgia 2021: 15 events, 15 rows w/ penalties
+Georgia 2022: 15 events, 15 rows w/ penalties
+Georgia 2023: 14 events, 14 rows w/ penalties
+Georgia 2024: 14 events, 14 rows w/ penalties
+Georgia 2025: 14 events, 14 rows w/ penalties
+Clemson 2016: 15 events, 15 rows w/ penalties
+Clemson 2017: 14 events, 14 rows w/ penalties
+Clemson 2018: 15 events, 15 rows w/ penalties
+Clemson 2019: 15 events, 15 rows w/ penalties
+Clemson 2020: 13 events, 12 rows w/ penalties
+Clemson 2021: 13 events, 13 rows w/ penalties
+Clemson 2022: 14 events, 14 rows w/ penalties
+Clemson 2023: 13 events, 13 rows w/ penalties
+Clemson 2024: 14 events, 14 rows w/ penalties
+Clemson 2025: 13 events, 13 rows w/ penalties
+Notre Dame 2016: 12 events, 12 rows w/ penalties
+Notre Dame 2017: 13 events, 13 rows w/ penalties
+Notre Dame 2018: 13 events, 13 rows w/ penalties
+Notre Dame 2019: 13 events, 13 rows w/ penalties
+Notre Dame 2020: 13 events, 12 rows w/ penalties
+Notre Dame 2021: 13 events, 13 rows w/ penalties
+Notre Dame 2022: 13 events, 13 rows w/ penalties
+Notre Dame 2023: 13 events, 13 rows w/ penalties
+Notre Dame 2024: 16 events, 16 rows w/ penalties
+Notre Dame 2025: 12 events, 12 rows w/ penalties
+FETCH PHASE DONE. new summaries fetched: 761
+FINAL CSV gamelogs_full.csv: 935 rows
