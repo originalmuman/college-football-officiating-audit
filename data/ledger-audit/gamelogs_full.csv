@@ -1,0 +1,936 @@
+season,team,team_id,date,opponent,opponent_id,homeAway,neutral,team_score,opp_score,team_pen,team_pen_yds,opp_pen,opp_pen_yds
+2023,Ohio State,194,2023-09-02,Indiana Hoosiers,84,away,False,23,3,5,41,8,75
+2023,Michigan,130,2023-09-02,East Carolina Pirates,151,home,False,30,3,5,35,10,88
+2023,Penn State,213,2023-09-02,West Virginia Mountaineers,277,home,False,38,15,1,5,5,55
+2023,Michigan,130,2023-09-09,UNLV Rebels,2439,home,False,35,7,4,30,3,35
+2023,Ohio State,194,2023-09-09,Youngstown State Penguins,2754,home,False,35,7,6,65,9,76
+2023,Penn State,213,2023-09-09,Delaware Blue Hens,48,home,False,63,7,7,55,5,33
+2023,Penn State,213,2023-09-16,Illinois Fighting Illini,356,away,False,30,13,7,70,6,47
+2023,Michigan,130,2023-09-16,Bowling Green Falcons,189,home,False,31,6,1,10,2,15
+2023,Ohio State,194,2023-09-16,Western Kentucky Hilltoppers,98,home,False,63,10,5,40,3,24
+2023,Michigan,130,2023-09-23,Rutgers Scarlet Knights,164,home,False,31,7,3,18,5,30
+2023,Penn State,213,2023-09-23,Iowa Hawkeyes,2294,home,False,31,0,4,45,4,28
+2023,Michigan,130,2023-09-30,Nebraska Cornhuskers,158,away,False,45,7,0,0,4,30
+2023,Penn State,213,2023-09-30,Northwestern Wildcats,77,away,False,41,13,6,45,4,18
+2023,Michigan,130,2023-10-07,Minnesota Golden Gophers,135,away,False,52,10,1,10,4,36
+2023,Ohio State,194,2023-10-07,Maryland Terrapins,120,home,False,37,17,10,81,4,50
+2023,Michigan,130,2023-10-14,Indiana Hoosiers,84,home,False,52,7,2,20,5,47
+2023,Penn State,213,2023-10-14,Massachusetts Minutemen,113,home,False,63,0,6,60,9,81
+2023,Ohio State,194,2023-10-14,Purdue Boilermakers,2509,away,False,41,7,9,51,5,41
+2023,Michigan,130,2023-10-21,Michigan State Spartans,127,away,False,49,0,7,75,11,102
+2023,Ohio State,194,2023-10-21,Penn State Nittany Lions,213,home,False,20,12,6,54,5,32
+2023,Penn State,213,2023-10-21,Ohio State Buckeyes,194,away,False,12,20,5,32,6,54
+2023,Penn State,213,2023-10-28,Indiana Hoosiers,84,home,False,33,24,6,60,5,35
+2023,Ohio State,194,2023-10-28,Wisconsin Badgers,275,away,False,24,10,6,25,5,26
+2023,Penn State,213,2023-11-04,Maryland Terrapins,120,away,False,51,15,7,76,4,45
+2023,Michigan,130,2023-11-04,Purdue Boilermakers,2509,home,False,41,13,1,10,5,58
+2023,Ohio State,194,2023-11-04,Rutgers Scarlet Knights,164,away,False,35,16,5,57,3,30
+2023,Ohio State,194,2023-11-12,Michigan State Spartans,127,home,False,38,3,3,25,5,36
+2023,Michigan,130,2023-11-11,Penn State Nittany Lions,213,away,False,24,15,6,50,5,33
+2023,Penn State,213,2023-11-11,Michigan Wolverines,130,home,False,15,24,5,33,6,50
+2023,Michigan,130,2023-11-18,Maryland Terrapins,120,away,False,31,24,2,25,6,35
+2023,Ohio State,194,2023-11-18,Minnesota Golden Gophers,135,home,False,37,3,5,43,1,15
+2023,Penn State,213,2023-11-18,Rutgers Scarlet Knights,164,home,False,27,6,1,2,6,48
+2023,Michigan,130,2023-11-25,Ohio State Buckeyes,194,home,False,30,24,3,34,1,5
+2023,Ohio State,194,2023-11-25,Michigan Wolverines,130,away,False,24,30,1,5,3,34
+2023,Penn State,213,2023-11-25,Michigan State Spartans,127,away,False,42,0,4,30,6,30
+2023,Ohio State,194,2023-09-23,Notre Dame Fighting Irish,87,away,False,17,14,5,35,4,50
+2023,Michigan,130,2023-12-03,Iowa Hawkeyes,2294,away,True,26,0,3,25,7,46
+2023,Ohio State,194,2023-12-30,Missouri Tigers,142,home,True,3,14,8,57,7,40
+2023,Penn State,213,2023-12-30,Ole Miss Rebels,145,home,True,25,38,6,50,5,26
+2023,Michigan,130,2024-01-01,Alabama Crimson Tide,333,home,True,27,20,2,25,3,15
+2023,Michigan,130,2024-01-09,Washington Huskies,264,home,True,34,13,5,45,5,30
+2024,Michigan,130,2024-09-07,Texas Longhorns,251,home,False,12,31,4,30,7,45
+2024,Michigan,130,2024-08-31,Fresno State Bulldogs,278,home,False,30,10,5,70,3,19
+2024,Ohio State,194,2024-08-31,Akron Zips,2006,home,False,52,6,7,45,5,35
+2024,Penn State,213,2024-08-31,West Virginia Mountaineers,277,away,False,34,12,8,60,1,5
+2024,Ohio State,194,2024-09-07,Western Michigan Broncos,2711,home,False,56,0,6,58,1,2
+2024,Penn State,213,2024-09-07,Bowling Green Falcons,189,home,False,34,27,7,76,3,18
+2024,Michigan,130,2024-09-14,Arkansas State Red Wolves,2032,home,False,28,18,7,69,3,25
+2024,Michigan,130,2024-09-21,USC Trojans,30,home,False,27,24,3,25,6,32
+2024,Ohio State,194,2024-09-21,Marshall Thundering Herd,276,home,False,49,14,5,54,8,52
+2024,Penn State,213,2024-09-21,Kent State Golden Flashes,2309,home,False,56,0,7,65,2,20
+2024,Penn State,213,2024-09-28,Illinois Fighting Illini,356,home,False,21,7,6,63,9,60
+2024,Michigan,130,2024-09-28,Minnesota Golden Gophers,135,home,False,27,24,5,54,7,51
+2024,Ohio State,194,2024-09-28,Michigan State Spartans,127,away,False,38,7,4,40,2,19
+2024,Ohio State,194,2024-10-05,Iowa Hawkeyes,2294,home,False,35,7,1,10,1,5
+2024,Michigan,130,2024-10-05,Washington Huskies,264,away,False,17,27,5,40,2,20
+2024,Penn State,213,2024-10-05,UCLA Bruins,26,home,False,27,11,2,20,5,45
+2024,Ohio State,194,2024-10-12,Oregon Ducks,2483,away,False,31,32,8,70,3,25
+2024,Penn State,213,2024-10-12,USC Trojans,30,away,False,33,30,3,25,5,60
+2024,Michigan,130,2024-10-19,Illinois Fighting Illini,356,away,False,7,21,6,61,6,50
+2024,Michigan,130,2024-10-26,Michigan State Spartans,127,home,False,24,17,0,0,6,35
+2024,Ohio State,194,2024-10-26,Nebraska Cornhuskers,158,home,False,21,17,3,36,7,62
+2024,Penn State,213,2024-10-26,Wisconsin Badgers,275,away,False,28,13,6,41,5,33
+2024,Michigan,130,2024-11-02,Oregon Ducks,2483,home,False,17,38,5,35,2,10
+2024,Ohio State,194,2024-11-02,Penn State Nittany Lions,213,away,False,20,13,2,15,5,45
+2024,Penn State,213,2024-11-02,Ohio State Buckeyes,194,home,False,13,20,5,45,2,15
+2024,Michigan,130,2024-11-09,Indiana Hoosiers,84,away,False,15,20,3,30,5,54
+2024,Ohio State,194,2024-11-09,Purdue Boilermakers,2509,home,False,45,0,3,44,0,0
+2024,Penn State,213,2024-11-10,Washington Huskies,264,home,False,35,6,5,54,4,24
+2024,Ohio State,194,2024-11-16,Northwestern Wildcats,77,away,False,31,7,3,32,2,10
+2024,Penn State,213,2024-11-16,Purdue Boilermakers,2509,away,False,49,10,3,26,4,34
+2024,Ohio State,194,2024-11-23,Indiana Hoosiers,84,home,False,38,15,8,58,3,15
+2024,Michigan,130,2024-11-23,Northwestern Wildcats,77,home,False,50,6,1,15,2,14
+2024,Penn State,213,2024-11-23,Minnesota Golden Gophers,135,away,False,26,25,2,10,1,15
+2024,Penn State,213,2024-11-30,Maryland Terrapins,120,home,False,44,7,5,47,2,8
+2024,Michigan,130,2024-11-30,Ohio State Buckeyes,194,away,False,13,10,4,50,2,19
+2024,Ohio State,194,2024-11-30,Michigan Wolverines,130,home,False,10,13,2,19,4,50
+2024,Penn State,213,2024-12-08,Oregon Ducks,2483,away,True,37,45,5,65,3,24
+2024,Michigan,130,2024-12-31,Alabama Crimson Tide,333,home,True,19,13,3,35,3,35
+2024,Ohio State,194,2024-12-22,Tennessee Volunteers,2633,home,False,42,17,3,25,6,50
+2024,Penn State,213,2024-12-21,SMU Mustangs,2567,home,False,38,10,6,65,7,61
+2024,Penn State,213,2025-01-01,Boise State Broncos,68,away,True,31,14,10,98,13,90
+2024,Ohio State,194,2025-01-01,Oregon Ducks,2483,away,True,41,21,2,14,3,13
+2024,Penn State,213,2025-01-10,Notre Dame Fighting Irish,87,home,True,24,27,5,44,4,30
+2024,Ohio State,194,2025-01-11,Texas Longhorns,251,away,True,28,14,9,75,5,54
+2024,Ohio State,194,2025-01-21,Notre Dame Fighting Irish,87,away,True,34,23,6,58,3,30
+2025,Ohio State,194,2025-08-30,Texas Longhorns,251,home,False,14,7,2,15,6,50
+2025,Michigan,130,2025-09-06,Oklahoma Sooners,201,away,False,13,24,3,32,5,48
+2025,Penn State,213,2025-08-30,Nevada Wolf Pack,2440,home,False,46,11,5,45,3,14
+2025,Michigan,130,2025-08-30,New Mexico Lobos,167,home,False,34,17,8,65,1,5
+2025,Penn State,213,2025-09-06,Florida International Panthers,2229,home,False,34,0,1,10,4,40
+2025,Ohio State,194,2025-09-06,Grambling Tigers,2755,home,False,70,0,3,15,6,40
+2025,Ohio State,194,2025-09-13,Ohio Bobcats,195,home,False,37,9,6,50,3,25
+2025,Penn State,213,2025-09-13,Villanova Wildcats,222,home,False,52,6,5,25,4,29
+2025,Michigan,130,2025-09-13,Central Michigan Chippewas,2117,home,False,63,3,4,45,1,6
+2025,Michigan,130,2025-09-20,Nebraska Cornhuskers,158,away,False,30,27,4,39,3,9
+2025,Ohio State,194,2025-09-27,Washington Huskies,264,away,False,24,6,5,60,6,49
+2025,Penn State,213,2025-09-27,Oregon Ducks,2483,home,False,24,30,2,10,4,34
+2025,Penn State,213,2025-10-04,UCLA Bruins,26,away,False,37,42,6,43,5,35
+2025,Michigan,130,2025-10-04,Wisconsin Badgers,275,home,False,24,10,1,10,5,35
+2025,Ohio State,194,2025-10-04,Minnesota Golden Gophers,135,home,False,42,3,4,35,2,15
+2025,Ohio State,194,2025-10-11,Illinois Fighting Illini,356,away,False,34,16,7,59,4,19
+2025,Penn State,213,2025-10-11,Northwestern Wildcats,77,home,False,21,22,6,71,2,10
+2025,Michigan,130,2025-10-11,USC Trojans,30,away,False,13,31,4,37,3,31
+2025,Michigan,130,2025-10-18,Washington Huskies,264,home,False,24,7,5,35,4,23
+2025,Penn State,213,2025-10-18,Iowa Hawkeyes,2294,away,False,24,25,2,15,3,20
+2025,Ohio State,194,2025-10-18,Wisconsin Badgers,275,away,False,34,0,5,30,2,10
+2025,Michigan,130,2025-10-25,Michigan State Spartans,127,away,False,31,20,6,61,12,105
+2025,Ohio State,194,2025-11-01,Penn State Nittany Lions,213,home,False,38,14,2,30,2,30
+2025,Penn State,213,2025-11-01,Ohio State Buckeyes,194,away,False,14,38,2,30,2,30
+2025,Michigan,130,2025-11-01,Purdue Boilermakers,2509,home,False,21,16,4,32,4,30
+2025,Penn State,213,2025-11-08,Indiana Hoosiers,84,home,False,24,27,5,37,5,21
+2025,Ohio State,194,2025-11-08,Purdue Boilermakers,2509,away,False,34,10,6,63,2,13
+2025,Ohio State,194,2025-11-16,UCLA Bruins,26,home,False,48,10,3,20,7,55
+2025,Penn State,213,2025-11-15,Michigan State Spartans,127,away,False,28,10,4,45,2,20
+2025,Michigan,130,2025-11-15,Northwestern Wildcats,77,away,False,24,22,4,24,7,55
+2025,Penn State,213,2025-11-23,Nebraska Cornhuskers,158,home,False,37,10,5,65,6,58
+2025,Ohio State,194,2025-11-22,Rutgers Scarlet Knights,164,home,False,42,9,5,60,4,37
+2025,Michigan,130,2025-11-22,Maryland Terrapins,120,away,False,45,20,4,30,4,40
+2025,Penn State,213,2025-11-29,Rutgers Scarlet Knights,164,away,False,40,36,7,54,6,42
+2025,Michigan,130,2025-11-29,Ohio State Buckeyes,194,home,False,9,27,1,3,6,72
+2025,Ohio State,194,2025-11-29,Michigan Wolverines,130,away,False,27,9,6,72,1,3
+2025,Ohio State,194,2026-01-01,Miami Hurricanes,2390,home,True,14,24,2,15,0,0
+2025,Ohio State,194,2025-12-07,Indiana Hoosiers,84,home,True,10,13,2,20,5,49
+2025,Penn State,213,2025-12-27,Clemson Tigers,228,away,True,22,10,3,35,1,5
+2025,Michigan,130,2025-12-31,Texas Longhorns,251,away,True,27,41,9,95,12,103
+2016,Michigan,130,2016-09-03,Hawai'i Rainbow Warriors,62,home,False,63,3,3,33,8,60
+2016,Michigan,130,2016-09-10,UCF Knights,2116,home,False,51,14,2,20,9,76
+2016,Michigan,130,2016-09-17,Colorado Buffaloes,38,home,False,45,28,5,41,7,46
+2016,Michigan,130,2016-09-24,Penn State Nittany Lions,213,home,False,49,10,7,80,2,13
+2016,Michigan,130,2016-10-01,Wisconsin Badgers,275,home,False,14,7,6,45,3,30
+2016,Michigan,130,2016-10-08,Rutgers Scarlet Knights,164,away,False,78,0,3,25,7,41
+2016,Michigan,130,2016-10-22,Illinois Fighting Illini,356,home,False,41,8,5,41,5,45
+2016,Michigan,130,2016-10-29,Michigan State Spartans,127,away,False,32,23,5,62,7,57
+2016,Michigan,130,2016-11-05,Maryland Terrapins,120,home,False,59,3,6,62,6,46
+2016,Michigan,130,2016-11-13,Iowa Hawkeyes,2294,away,False,13,14,5,48,3,24
+2016,Michigan,130,2016-11-19,Indiana Hoosiers,84,home,False,20,10,5,40,4,35
+2016,Michigan,130,2016-11-26,Ohio State Buckeyes,194,away,False,27,30,7,59,2,6
+2016,Michigan,130,2016-12-31,Florida State Seminoles,52,away,True,32,33,4,37,7,65
+2017,Michigan,130,2017-09-02,Florida Gators,57,away,True,33,17,7,55,5,45
+2017,Michigan,130,2017-09-09,Cincinnati Bearcats,2132,home,False,36,14,7,68,4,30
+2017,Michigan,130,2017-09-16,Air Force Falcons,2005,home,False,29,13,7,72,3,29
+2017,Michigan,130,2017-09-23,Purdue Boilermakers,2509,away,False,28,10,7,57,8,82
+2017,Michigan,130,2017-10-07,Michigan State Spartans,127,home,False,10,14,7,53,11,81
+2017,Michigan,130,2017-10-14,Indiana Hoosiers,84,away,False,27,20,16,141,5,55
+2017,Michigan,130,2017-10-21,Penn State Nittany Lions,213,away,False,13,42,6,59,1,10
+2017,Michigan,130,2017-10-28,Rutgers Scarlet Knights,164,home,False,35,14,3,25,3,20
+2017,Michigan,130,2017-11-05,Minnesota Golden Gophers,135,home,False,33,10,9,85,3,10
+2017,Michigan,130,2017-11-11,Maryland Terrapins,120,away,False,35,10,1,10,7,59
+2017,Michigan,130,2017-11-18,Wisconsin Badgers,275,away,False,10,24,4,28,4,35
+2017,Michigan,130,2017-11-25,Ohio State Buckeyes,194,home,False,20,31,6,50,9,75
+2017,Michigan,130,2018-01-01,South Carolina Gamecocks,2579,away,True,19,26,6,40,7,68
+2018,Michigan,130,2018-09-01,Notre Dame Fighting Irish,87,away,False,17,24,7,52,4,40
+2018,Michigan,130,2018-09-08,Western Michigan Broncos,2711,home,False,49,3,7,55,4,30
+2018,Michigan,130,2018-09-15,SMU Mustangs,2567,home,False,45,20,13,137,6,60
+2018,Michigan,130,2018-09-22,Nebraska Cornhuskers,158,home,False,56,10,8,77,10,79
+2018,Michigan,130,2018-09-29,Northwestern Wildcats,77,away,False,20,17,11,100,2,25
+2018,Michigan,130,2018-10-06,Maryland Terrapins,120,home,False,42,21,6,52,12,107
+2018,Michigan,130,2018-10-13,Wisconsin Badgers,275,home,False,38,13,1,15,3,30
+2018,Michigan,130,2018-10-20,Michigan State Spartans,127,away,False,21,7,9,99,4,40
+2018,Michigan,130,2018-11-03,Penn State Nittany Lions,213,home,False,42,7,9,80,4,35
+2018,Michigan,130,2018-11-10,Rutgers Scarlet Knights,164,away,False,42,7,2,20,3,30
+2018,Michigan,130,2018-11-17,Indiana Hoosiers,84,home,False,31,20,4,45,7,62
+2018,Michigan,130,2018-11-24,Ohio State Buckeyes,194,away,False,39,62,7,72,12,150
+2018,Michigan,130,2018-12-29,Florida Gators,57,home,True,15,41,4,22,5,40
+2019,Michigan,130,2019-08-31,Middle Tennessee Blue Raiders,2393,home,False,40,21,8,55,8,54
+2019,Michigan,130,2019-09-07,Army Black Knights,349,home,False,24,21,9,58,8,78
+2019,Michigan,130,2019-09-21,Wisconsin Badgers,275,away,False,14,35,3,45,9,69
+2019,Michigan,130,2019-09-28,Rutgers Scarlet Knights,164,home,False,52,0,6,35,9,70
+2019,Michigan,130,2019-10-05,Iowa Hawkeyes,2294,home,False,10,3,4,35,8,60
+2019,Michigan,130,2019-10-12,Illinois Fighting Illini,356,away,False,42,25,7,54,10,95
+2019,Michigan,130,2019-10-19,Penn State Nittany Lions,213,away,False,21,28,8,48,5,58
+2019,Michigan,130,2019-10-26,Notre Dame Fighting Irish,87,home,False,45,14,4,50,7,62
+2019,Michigan,130,2019-11-02,Maryland Terrapins,120,away,False,38,7,4,30,5,34
+2019,Michigan,130,2019-11-16,Michigan State Spartans,127,home,False,44,10,9,91,7,93
+2019,Michigan,130,2019-11-23,Indiana Hoosiers,84,away,False,39,14,6,49,8,86
+2019,Michigan,130,2019-11-30,Ohio State Buckeyes,194,home,False,27,56,5,38,7,66
+2019,Michigan,130,2020-01-01,Alabama Crimson Tide,333,away,True,16,35,7,61,5,25
+2020,Michigan,130,2020-10-24,Minnesota Golden Gophers,135,away,False,49,24,7,80,5,39
+2020,Michigan,130,2020-10-31,Michigan State Spartans,127,home,False,24,27,10,86,5,65
+2020,Michigan,130,2020-11-07,Indiana Hoosiers,84,away,False,21,38,8,89,4,50
+2020,Michigan,130,2020-11-15,Wisconsin Badgers,275,home,False,11,49,4,40,1,5
+2020,Michigan,130,2020-11-22,Rutgers Scarlet Knights,164,away,False,48,42,5,40,12,99
+2020,Michigan,130,2020-11-28,Penn State Nittany Lions,213,home,False,17,27,1,10,5,30
+2021,Michigan,130,2021-09-04,Western Michigan Broncos,2711,home,False,47,14,5,48,3,30
+2021,Michigan,130,2021-09-12,Washington Huskies,264,home,False,31,10,6,60,6,59
+2021,Michigan,130,2021-09-18,Northern Illinois Huskies,2459,home,False,63,10,5,45,6,57
+2021,Michigan,130,2021-09-25,Rutgers Scarlet Knights,164,home,False,20,13,6,59,7,42
+2021,Michigan,130,2021-10-02,Wisconsin Badgers,275,away,False,38,17,3,10,1,5
+2021,Michigan,130,2021-10-09,Nebraska Cornhuskers,158,away,False,32,29,6,55,6,47
+2021,Michigan,130,2021-10-23,Northwestern Wildcats,77,home,False,33,7,4,40,2,25
+2021,Michigan,130,2021-10-30,Michigan State Spartans,127,away,False,33,37,8,59,7,75
+2021,Michigan,130,2021-11-06,Indiana Hoosiers,84,home,False,29,7,5,35,3,30
+2021,Michigan,130,2021-11-13,Penn State Nittany Lions,213,away,False,21,17,4,20,4,29
+2021,Michigan,130,2021-11-20,Maryland Terrapins,120,away,False,59,18,6,50,8,59
+2021,Michigan,130,2021-11-27,Ohio State Buckeyes,194,home,False,42,27,2,20,10,66
+2021,Michigan,130,2021-12-05,Iowa Hawkeyes,2294,away,True,42,3,4,50,5,55
+2021,Michigan,130,2022-01-01,Georgia Bulldogs,61,home,True,11,34,4,30,5,70
+2022,Michigan,130,2022-09-03,Colorado State Rams,36,home,False,51,7,1,10,0,0
+2022,Michigan,130,2022-09-11,Hawai'i Rainbow Warriors,62,home,False,56,10,3,35,1,10
+2022,Michigan,130,2022-09-17,UConn Huskies,41,home,False,59,0,4,24,5,45
+2022,Michigan,130,2022-09-24,Maryland Terrapins,120,home,False,34,27,1,15,1,5
+2022,Michigan,130,2022-10-01,Iowa Hawkeyes,2294,away,False,27,14,5,50,5,59
+2022,Michigan,130,2022-10-08,Indiana Hoosiers,84,away,False,31,10,10,85,4,50
+2022,Michigan,130,2022-10-15,Penn State Nittany Lions,213,home,False,41,17,9,61,5,55
+2022,Michigan,130,2022-10-29,Michigan State Spartans,127,home,False,29,7,4,25,7,75
+2022,Michigan,130,2022-11-05,Rutgers Scarlet Knights,164,away,False,52,17,3,20,5,45
+2022,Michigan,130,2022-11-12,Nebraska Cornhuskers,158,home,False,34,3,1,15,4,30
+2022,Michigan,130,2022-11-19,Illinois Fighting Illini,356,home,False,19,17,4,25,4,40
+2022,Michigan,130,2022-11-26,Ohio State Buckeyes,194,away,False,45,23,5,30,9,91
+2022,Michigan,130,2022-12-04,Purdue Boilermakers,2509,home,True,43,22,3,25,5,38
+2022,Michigan,130,2022-12-31,TCU Horned Frogs,2628,home,True,45,51,5,28,7,85
+2016,Ohio State,194,2016-09-03,Bowling Green Falcons,189,home,False,77,10,9,66,5,45
+2016,Ohio State,194,2016-09-10,Tulsa Golden Hurricane,202,home,False,48,3,9,67,5,46
+2016,Ohio State,194,2016-09-17,Oklahoma Sooners,201,away,False,45,24,11,75,4,28
+2016,Ohio State,194,2016-10-01,Rutgers Scarlet Knights,164,home,False,58,0,6,64,4,21
+2016,Ohio State,194,2016-10-08,Indiana Hoosiers,84,home,False,38,17,9,83,5,40
+2016,Ohio State,194,2016-10-16,Wisconsin Badgers,275,away,False,30,23,4,40,4,35
+2016,Ohio State,194,2016-10-23,Penn State Nittany Lions,213,away,False,21,24,8,45,1,5
+2016,Ohio State,194,2016-10-29,Northwestern Wildcats,77,home,False,24,20,2,10,2,20
+2016,Ohio State,194,2016-11-06,Nebraska Cornhuskers,158,home,False,62,3,4,35,4,43
+2016,Ohio State,194,2016-11-12,Maryland Terrapins,120,away,False,62,3,6,55,7,74
+2016,Ohio State,194,2016-11-19,Michigan State Spartans,127,away,False,17,16,4,40,6,60
+2016,Ohio State,194,2016-11-26,Michigan Wolverines,130,home,False,30,27,2,6,7,59
+2016,Ohio State,194,2017-01-01,Clemson Tigers,228,away,True,0,31,8,72,5,60
+2017,Ohio State,194,2017-09-01,Indiana Hoosiers,84,away,False,49,21,5,50,5,33
+2017,Ohio State,194,2017-09-09,Oklahoma Sooners,201,home,False,16,31,9,87,3,26
+2017,Ohio State,194,2017-09-16,Army Black Knights,349,home,False,38,7,5,55,2,22
+2017,Ohio State,194,2017-09-23,UNLV Rebels,2439,home,False,54,21,8,85,4,30
+2017,Ohio State,194,2017-09-30,Rutgers Scarlet Knights,164,away,False,56,0,10,106,10,80
+2017,Ohio State,194,2017-10-07,Maryland Terrapins,120,home,False,62,14,8,85,6,66
+2017,Ohio State,194,2017-10-14,Nebraska Cornhuskers,158,away,False,56,14,7,53,12,104
+2017,Ohio State,194,2017-10-28,Penn State Nittany Lions,213,home,False,39,38,10,79,9,73
+2017,Ohio State,194,2017-11-04,Iowa Hawkeyes,2294,away,False,24,55,9,95,5,34
+2017,Ohio State,194,2017-11-11,Michigan State Spartans,127,home,False,48,3,2,27,5,58
+2017,Ohio State,194,2017-11-18,Illinois Fighting Illini,356,home,False,52,14,7,68,7,55
+2017,Ohio State,194,2017-11-25,Michigan Wolverines,130,away,False,31,20,9,75,6,50
+2017,Ohio State,194,2017-12-03,Wisconsin Badgers,275,away,True,27,21,5,48,6,55
+2017,Ohio State,194,2017-12-30,USC Trojans,30,home,True,24,7,3,30,3,35
+2018,Ohio State,194,2018-09-01,Oregon State Beavers,204,home,False,77,31,6,50,5,49
+2018,Ohio State,194,2018-09-08,Rutgers Scarlet Knights,164,home,False,52,3,11,120,7,72
+2018,Ohio State,194,2018-09-16,TCU Horned Frogs,2628,away,True,40,28,5,39,5,40
+2018,Ohio State,194,2018-09-22,Tulane Green Wave,2655,home,False,49,6,10,89,6,55
+2018,Ohio State,194,2018-09-29,Penn State Nittany Lions,213,away,False,27,26,10,105,7,64
+2018,Ohio State,194,2018-10-06,Indiana Hoosiers,84,home,False,49,26,9,82,3,35
+2018,Ohio State,194,2018-10-13,Minnesota Golden Gophers,135,home,False,30,14,5,36,4,60
+2018,Ohio State,194,2018-10-20,Purdue Boilermakers,2509,away,False,20,49,10,86,7,95
+2018,Ohio State,194,2018-11-03,Nebraska Cornhuskers,158,home,False,36,31,6,46,5,44
+2018,Ohio State,194,2018-11-10,Michigan State Spartans,127,away,False,26,6,4,30,7,46
+2018,Ohio State,194,2018-11-17,Maryland Terrapins,120,away,False,52,51,10,79,9,88
+2018,Ohio State,194,2018-11-24,Michigan Wolverines,130,home,False,62,39,12,150,7,72
+2018,Ohio State,194,2018-12-02,Northwestern Wildcats,77,home,True,45,24,9,90,3,15
+2018,Ohio State,194,2019-01-01,Washington Huskies,264,home,True,28,23,9,53,6,46
+2019,Ohio State,194,2019-08-31,Florida Atlantic Owls,2226,home,False,45,21,7,62,5,35
+2019,Ohio State,194,2019-09-07,Cincinnati Bearcats,2132,home,False,42,0,2,25,10,78
+2019,Ohio State,194,2019-09-14,Indiana Hoosiers,84,away,False,51,10,5,45,5,54
+2019,Ohio State,194,2019-09-21,Miami (OH) RedHawks,193,home,False,76,5,6,52,4,50
+2019,Ohio State,194,2019-09-28,Nebraska Cornhuskers,158,away,False,48,7,2,25,6,57
+2019,Ohio State,194,2019-10-05,Michigan State Spartans,127,home,False,34,10,10,85,4,30
+2019,Ohio State,194,2019-10-19,Northwestern Wildcats,77,away,False,52,3,5,58,8,76
+2019,Ohio State,194,2019-10-26,Wisconsin Badgers,275,home,False,38,7,2,15,3,30
+2019,Ohio State,194,2019-11-09,Maryland Terrapins,120,home,False,73,14,13,141,6,42
+2019,Ohio State,194,2019-11-16,Rutgers Scarlet Knights,164,away,False,56,21,6,54,5,55
+2019,Ohio State,194,2019-11-23,Penn State Nittany Lions,213,home,False,28,17,4,25,5,32
+2019,Ohio State,194,2019-11-30,Michigan Wolverines,130,away,False,56,27,7,66,5,38
+2019,Ohio State,194,2019-12-08,Wisconsin Badgers,275,away,True,34,21,4,40,4,41
+2019,Ohio State,194,2019-12-29,Clemson Tigers,228,home,True,23,29,8,77,6,47
+2020,Ohio State,194,2020-10-24,Nebraska Cornhuskers,158,home,False,52,17,3,14,8,90
+2020,Ohio State,194,2020-10-31,Penn State Nittany Lions,213,away,False,38,25,9,80,5,31
+2020,Ohio State,194,2020-11-08,Rutgers Scarlet Knights,164,home,False,49,27,9,74,9,83
+2020,Ohio State,194,2020-11-21,Indiana Hoosiers,84,home,False,42,35,3,35,2,30
+2020,Ohio State,194,2020-12-05,Michigan State Spartans,127,away,False,52,12,7,63,10,101
+2020,Ohio State,194,2020-12-19,Northwestern Wildcats,77,home,True,22,10,5,45,2,15
+2020,Ohio State,194,2021-01-02,Clemson Tigers,228,away,True,49,28,9,95,3,20
+2020,Ohio State,194,2021-01-12,Alabama Crimson Tide,333,away,True,24,52,4,29,6,44
+2021,Ohio State,194,2021-09-03,Minnesota Golden Gophers,135,away,False,45,31,5,48,5,50
+2021,Ohio State,194,2021-09-11,Oregon Ducks,2483,home,False,28,35,8,71,4,35
+2021,Ohio State,194,2021-09-18,Tulsa Golden Hurricane,202,home,False,41,20,8,81,11,100
+2021,Ohio State,194,2021-09-25,Akron Zips,2006,home,False,59,7,8,95,4,18
+2021,Ohio State,194,2021-10-02,Rutgers Scarlet Knights,164,away,False,52,13,6,65,3,25
+2021,Ohio State,194,2021-10-09,Maryland Terrapins,120,home,False,66,17,4,40,2,15
+2021,Ohio State,194,2021-10-23,Indiana Hoosiers,84,away,False,54,7,5,40,1,7
+2021,Ohio State,194,2021-10-30,Penn State Nittany Lions,213,home,False,33,24,10,74,7,56
+2021,Ohio State,194,2021-11-06,Nebraska Cornhuskers,158,away,False,26,17,8,65,6,60
+2021,Ohio State,194,2021-11-13,Purdue Boilermakers,2509,home,False,59,31,5,50,4,31
+2021,Ohio State,194,2021-11-20,Michigan State Spartans,127,home,False,56,7,1,5,3,30
+2021,Ohio State,194,2021-11-27,Michigan Wolverines,130,away,False,27,42,10,66,2,20
+2021,Ohio State,194,2022-01-01,Utah Utes,254,home,True,48,45,7,70,5,50
+2022,Ohio State,194,2022-09-03,Notre Dame Fighting Irish,87,home,False,21,10,7,75,5,61
+2022,Ohio State,194,2022-09-10,Arkansas State Red Wolves,2032,home,False,45,12,9,85,6,63
+2022,Ohio State,194,2022-09-17,Toledo Rockets,2649,home,False,77,21,1,5,4,23
+2022,Ohio State,194,2022-09-24,Wisconsin Badgers,275,home,False,52,21,3,27,5,57
+2022,Ohio State,194,2022-10-01,Rutgers Scarlet Knights,164,home,False,49,10,6,41,10,61
+2022,Ohio State,194,2022-10-08,Michigan State Spartans,127,away,False,49,20,4,49,6,45
+2022,Ohio State,194,2022-10-22,Iowa Hawkeyes,2294,home,False,54,10,5,45,3,11
+2022,Ohio State,194,2022-10-29,Penn State Nittany Lions,213,away,False,44,31,8,50,6,50
+2022,Ohio State,194,2022-11-05,Northwestern Wildcats,77,away,False,21,7,3,20,4,27
+2022,Ohio State,194,2022-11-12,Indiana Hoosiers,84,home,False,56,14,3,15,2,20
+2022,Ohio State,194,2022-11-19,Maryland Terrapins,120,away,False,43,30,11,97,10,97
+2022,Ohio State,194,2022-11-26,Michigan Wolverines,130,home,False,23,45,9,91,5,30
+2022,Ohio State,194,2023-01-01,Georgia Bulldogs,61,away,True,41,42,4,24,4,45
+2016,Penn State,213,2016-09-03,Kent State Golden Flashes,2309,home,False,33,13,5,55,6,47
+2016,Penn State,213,2016-09-10,Pittsburgh Panthers,221,away,False,39,42,4,35,10,79
+2016,Penn State,213,2016-09-17,Temple Owls,218,home,False,34,27,7,62,13,118
+2016,Penn State,213,2016-09-24,Michigan Wolverines,130,away,False,10,49,2,13,7,80
+2016,Penn State,213,2016-10-01,Minnesota Golden Gophers,135,home,False,29,26,5,65,8,83
+2016,Penn State,213,2016-10-08,Maryland Terrapins,120,home,False,38,14,7,50,5,54
+2016,Penn State,213,2016-10-23,Ohio State Buckeyes,194,home,False,24,21,1,5,8,45
+2016,Penn State,213,2016-10-29,Purdue Boilermakers,2509,away,False,62,24,11,91,8,76
+2016,Penn State,213,2016-11-05,Iowa Hawkeyes,2294,home,False,41,14,9,86,4,24
+2016,Penn State,213,2016-11-12,Indiana Hoosiers,84,away,False,45,31,5,40,8,80
+2016,Penn State,213,2016-11-20,Rutgers Scarlet Knights,164,away,False,39,0,3,15,6,50
+2016,Penn State,213,2016-11-26,Michigan State Spartans,127,home,False,45,12,1,15,4,23
+2016,Penn State,213,2016-12-04,Wisconsin Badgers,275,home,True,38,31,3,25,4,40
+2016,Penn State,213,2017-01-02,USC Trojans,30,home,True,49,52,5,65,10,85
+2017,Penn State,213,2017-09-02,Akron Zips,2006,home,False,52,0,5,45,9,84
+2017,Penn State,213,2017-09-09,Pittsburgh Panthers,221,home,False,33,14,1,15,6,55
+2017,Penn State,213,2017-09-16,Georgia State Panthers,2247,home,False,56,0,5,45,3,25
+2017,Penn State,213,2017-09-23,Iowa Hawkeyes,2294,away,False,21,19,8,90,3,25
+2017,Penn State,213,2017-09-30,Indiana Hoosiers,84,home,False,45,14,2,7,2,20
+2017,Penn State,213,2017-10-07,Northwestern Wildcats,77,away,False,31,7,3,30,8,74
+2017,Penn State,213,2017-10-21,Michigan Wolverines,130,home,False,42,13,1,10,6,59
+2017,Penn State,213,2017-10-28,Ohio State Buckeyes,194,away,False,38,39,9,73,10,79
+2017,Penn State,213,2017-11-04,Michigan State Spartans,127,away,False,24,27,7,86,8,87
+2017,Penn State,213,2017-11-11,Rutgers Scarlet Knights,164,home,False,35,6,4,20,4,41
+2017,Penn State,213,2017-11-18,Nebraska Cornhuskers,158,home,False,56,44,5,39,9,89
+2017,Penn State,213,2017-11-25,Maryland Terrapins,120,away,False,66,3,2,10,8,91
+2017,Penn State,213,2017-12-30,Washington Huskies,264,home,True,35,28,2,20,4,22
+2018,Penn State,213,2018-09-01,Appalachian State Mountaineers,2026,home,False,45,38,2,10,10,105
+2018,Penn State,213,2018-09-09,Pittsburgh Panthers,221,away,False,51,6,4,45,14,116
+2018,Penn State,213,2018-09-15,Kent State Golden Flashes,2309,home,False,63,10,9,85,10,83
+2018,Penn State,213,2018-09-22,Illinois Fighting Illini,356,away,False,63,24,8,72,7,81
+2018,Penn State,213,2018-09-29,Ohio State Buckeyes,194,home,False,26,27,7,64,10,105
+2018,Penn State,213,2018-10-13,Michigan State Spartans,127,home,False,17,21,6,41,3,20
+2018,Penn State,213,2018-10-20,Indiana Hoosiers,84,away,False,33,28,3,40,7,55
+2018,Penn State,213,2018-10-27,Iowa Hawkeyes,2294,home,False,30,24,6,47,6,25
+2018,Penn State,213,2018-11-03,Michigan Wolverines,130,away,False,7,42,4,35,9,80
+2018,Penn State,213,2018-11-10,Wisconsin Badgers,275,home,False,22,10,3,22,6,50
+2018,Penn State,213,2018-11-17,Rutgers Scarlet Knights,164,away,False,20,7,3,43,5,62
+2018,Penn State,213,2018-11-24,Maryland Terrapins,120,home,False,38,3,3,23,7,65
+2018,Penn State,213,2019-01-01,Kentucky Wildcats,96,home,True,24,27,3,24,3,27
+2019,Penn State,213,2019-08-31,Idaho Vandals,70,home,False,79,7,3,30,10,67
+2019,Penn State,213,2019-09-07,Buffalo Bulls,2084,home,False,45,13,3,25,8,78
+2019,Penn State,213,2019-09-14,Pittsburgh Panthers,221,home,False,17,10,3,40,2,18
+2019,Penn State,213,2019-09-28,Maryland Terrapins,120,away,False,59,0,7,81,9,85
+2019,Penn State,213,2019-10-05,Purdue Boilermakers,2509,home,False,35,7,4,49,7,37
+2019,Penn State,213,2019-10-12,Iowa Hawkeyes,2294,away,False,17,12,8,80,1,5
+2019,Penn State,213,2019-10-19,Michigan Wolverines,130,home,False,28,21,5,58,8,48
+2019,Penn State,213,2019-10-26,Michigan State Spartans,127,away,False,28,7,9,104,4,31
+2019,Penn State,213,2019-11-09,Minnesota Golden Gophers,135,away,False,26,31,4,45,5,40
+2019,Penn State,213,2019-11-16,Indiana Hoosiers,84,home,False,34,27,1,0,5,27
+2019,Penn State,213,2019-11-23,Ohio State Buckeyes,194,away,False,17,28,5,32,4,25
+2019,Penn State,213,2019-11-30,Rutgers Scarlet Knights,164,home,False,27,6,3,30,6,57
+2019,Penn State,213,2019-12-28,Memphis Tigers,235,home,True,53,39,2,15,8,45
+2020,Penn State,213,2020-10-24,Indiana Hoosiers,84,away,False,35,36,10,100,4,36
+2020,Penn State,213,2020-10-31,Ohio State Buckeyes,194,home,False,25,38,5,31,9,80
+2020,Penn State,213,2020-11-07,Maryland Terrapins,120,home,False,19,35,4,25,8,55
+2020,Penn State,213,2020-11-14,Nebraska Cornhuskers,158,away,False,23,30,4,50,5,39
+2020,Penn State,213,2020-11-21,Iowa Hawkeyes,2294,home,False,21,41,2,15,6,45
+2020,Penn State,213,2020-11-28,Michigan Wolverines,130,away,False,27,17,5,30,1,10
+2020,Penn State,213,2020-12-05,Rutgers Scarlet Knights,164,away,False,23,7,2,20,3,30
+2020,Penn State,213,2020-12-12,Michigan State Spartans,127,home,False,39,24,5,45,8,62
+2020,Penn State,213,2020-12-19,Illinois Fighting Illini,356,home,False,56,21,2,19,1,15
+2021,Penn State,213,2021-09-04,Wisconsin Badgers,275,away,False,16,10,7,79,7,42
+2021,Penn State,213,2021-09-11,Ball State Cardinals,2050,home,False,44,13,6,62,5,57
+2021,Penn State,213,2021-09-18,Auburn Tigers,2,home,False,28,20,5,30,6,45
+2021,Penn State,213,2021-09-25,Villanova Wildcats,222,home,False,38,17,3,35,4,50
+2021,Penn State,213,2021-10-02,Indiana Hoosiers,84,home,False,24,0,5,37,3,20
+2021,Penn State,213,2021-10-09,Iowa Hawkeyes,2294,away,False,20,23,10,59,4,42
+2021,Penn State,213,2021-10-23,Illinois Fighting Illini,356,home,False,18,20,7,81,4,50
+2021,Penn State,213,2021-10-30,Ohio State Buckeyes,194,away,False,24,33,7,56,10,74
+2021,Penn State,213,2021-11-06,Maryland Terrapins,120,away,False,31,14,7,54,4,25
+2021,Penn State,213,2021-11-13,Michigan Wolverines,130,home,False,17,21,4,29,4,20
+2021,Penn State,213,2021-11-20,Rutgers Scarlet Knights,164,home,False,28,0,4,50,8,55
+2021,Penn State,213,2021-11-27,Michigan State Spartans,127,away,False,27,30,2,17,7,50
+2021,Penn State,213,2022-01-01,Arkansas Razorbacks,8,away,True,10,24,3,10,6,40
+2022,Penn State,213,2022-09-02,Purdue Boilermakers,2509,away,False,35,31,5,56,9,92
+2022,Penn State,213,2022-09-10,Ohio Bobcats,195,home,False,46,10,4,35,3,35
+2022,Penn State,213,2022-09-17,Auburn Tigers,2,away,False,41,12,9,80,7,61
+2022,Penn State,213,2022-09-24,Central Michigan Chippewas,2117,home,False,33,14,5,45,8,80
+2022,Penn State,213,2022-10-01,Northwestern Wildcats,77,home,False,17,7,7,55,2,10
+2022,Penn State,213,2022-10-15,Michigan Wolverines,130,away,False,17,41,5,55,9,61
+2022,Penn State,213,2022-10-22,Minnesota Golden Gophers,135,home,False,45,17,4,35,8,52
+2022,Penn State,213,2022-10-29,Ohio State Buckeyes,194,home,False,31,44,6,50,8,50
+2022,Penn State,213,2022-11-05,Indiana Hoosiers,84,away,False,45,14,5,33,5,50
+2022,Penn State,213,2022-11-12,Maryland Terrapins,120,home,False,30,0,6,65,7,70
+2022,Penn State,213,2022-11-19,Rutgers Scarlet Knights,164,away,False,55,10,4,40,4,25
+2022,Penn State,213,2022-11-26,Michigan State Spartans,127,home,False,35,16,6,46,5,40
+2022,Penn State,213,2023-01-02,Utah Utes,254,away,True,35,21,3,33,4,25
+2016,Alabama,333,2016-09-04,USC Trojans,30,home,True,52,6,4,29,6,46
+2016,Alabama,333,2016-09-10,Western Kentucky Hilltoppers,98,home,False,38,10,12,84,2,16
+2016,Alabama,333,2016-09-17,Ole Miss Rebels,145,away,False,48,43,9,75,6,65
+2016,Alabama,333,2016-09-24,Kent State Golden Flashes,2309,home,False,48,0,2,20,0,0
+2016,Alabama,333,2016-10-01,Kentucky Wildcats,96,home,False,34,6,4,20,2,15
+2016,Alabama,333,2016-10-08,Arkansas Razorbacks,8,away,False,49,30,7,86,6,60
+2016,Alabama,333,2016-10-15,Tennessee Volunteers,2633,away,False,49,10,5,38,1,10
+2016,Alabama,333,2016-10-22,Texas A&M Aggies,245,home,False,33,14,7,44,9,81
+2016,Alabama,333,2016-11-06,LSU Tigers,99,away,False,10,0,6,29,3,20
+2016,Alabama,333,2016-11-12,Mississippi State Bulldogs,344,home,False,51,3,3,35,4,31
+2016,Alabama,333,2016-11-20,Chattanooga Mocs,236,home,False,31,3,1,10,2,10
+2016,Alabama,333,2016-11-26,Auburn Tigers,2,home,False,30,12,4,28,4,19
+2016,Alabama,333,2016-12-03,Florida Gators,57,away,True,54,16,2,14,7,53
+2016,Alabama,333,2016-12-31,Washington Huskies,264,home,True,24,7,11,66,3,10
+2016,Alabama,333,2017-01-10,Clemson Tigers,228,home,True,31,35,9,82,3,35
+2017,Alabama,333,2017-09-03,Florida State Seminoles,52,home,True,24,7,5,30,4,30
+2017,Alabama,333,2017-09-09,Fresno State Bulldogs,278,home,False,41,10,4,30,1,6
+2017,Alabama,333,2017-09-16,Colorado State Rams,36,home,False,41,23,4,45,3,14
+2017,Alabama,333,2017-09-23,Vanderbilt Commodores,238,away,False,59,0,6,40,5,20
+2017,Alabama,333,2017-10-01,Ole Miss Rebels,145,home,False,66,3,7,60,3,30
+2017,Alabama,333,2017-10-07,Texas A&M Aggies,245,away,False,27,19,6,50,6,45
+2017,Alabama,333,2017-10-14,Arkansas Razorbacks,8,home,False,41,9,6,66,5,25
+2017,Alabama,333,2017-10-21,Tennessee Volunteers,2633,home,False,45,7,7,56,9,81
+2017,Alabama,333,2017-11-05,LSU Tigers,99,home,False,24,10,1,11,5,30
+2017,Alabama,333,2017-11-12,Mississippi State Bulldogs,344,away,False,31,24,6,60,4,30
+2017,Alabama,333,2017-11-18,Mercer Bears,2382,home,False,56,0,1,5,2,10
+2017,Alabama,333,2017-11-25,Auburn Tigers,2,away,False,14,26,9,65,4,40
+2017,Alabama,333,2018-01-02,Clemson Tigers,228,away,True,24,6,2,10,4,29
+2017,Alabama,333,2018-01-09,Georgia Bulldogs,61,away,True,26,23,6,41,6,65
+2018,Alabama,333,2018-09-02,Louisville Cardinals,97,home,True,51,14,10,111,11,93
+2018,Alabama,333,2018-09-08,Arkansas State Red Wolves,2032,home,False,57,7,4,35,10,84
+2018,Alabama,333,2018-09-15,Ole Miss Rebels,145,away,False,62,7,8,60,8,67
+2018,Alabama,333,2018-09-22,Texas A&M Aggies,245,home,False,45,23,9,82,4,50
+2018,Alabama,333,2018-09-29,Louisiana Ragin' Cajuns,309,home,False,56,14,3,15,4,30
+2018,Alabama,333,2018-10-06,Arkansas Razorbacks,8,away,False,65,31,5,31,2,20
+2018,Alabama,333,2018-10-13,Missouri Tigers,142,home,False,39,10,5,60,5,53
+2018,Alabama,333,2018-10-20,Tennessee Volunteers,2633,away,False,58,21,5,36,9,59
+2018,Alabama,333,2018-11-04,LSU Tigers,99,away,False,29,0,6,60,3,15
+2018,Alabama,333,2018-11-10,Mississippi State Bulldogs,344,home,False,24,0,0,0,7,50
+2018,Alabama,333,2018-11-17,The Citadel Bulldogs,2643,home,False,50,17,6,68,6,50
+2018,Alabama,333,2018-11-24,Auburn Tigers,2,home,False,52,21,8,82,9,88
+2018,Alabama,333,2018-12-01,Georgia Bulldogs,61,away,True,35,28,3,10,6,50
+2018,Alabama,333,2018-12-30,Oklahoma Sooners,201,home,True,45,34,9,86,7,55
+2018,Alabama,333,2019-01-08,Clemson Tigers,228,home,True,16,44,6,60,1,12
+2019,Alabama,333,2019-08-31,Duke Blue Devils,150,home,True,42,3,8,88,8,52
+2019,Alabama,333,2019-09-07,New Mexico State Aggies,166,home,False,62,10,4,35,1,15
+2019,Alabama,333,2019-09-14,South Carolina Gamecocks,2579,away,False,47,23,11,92,5,32
+2019,Alabama,333,2019-09-21,Southern Mississippi Golden Eagles,2572,home,False,49,7,1,15,6,55
+2019,Alabama,333,2019-09-28,Ole Miss Rebels,145,home,False,59,31,10,76,9,97
+2019,Alabama,333,2019-10-12,Texas A&M Aggies,245,away,False,47,28,11,91,5,55
+2019,Alabama,333,2019-10-20,Tennessee Volunteers,2633,home,False,35,13,8,93,13,93
+2019,Alabama,333,2019-10-26,Arkansas Razorbacks,8,home,False,48,7,6,60,0,0
+2019,Alabama,333,2019-11-09,LSU Tigers,99,home,False,41,46,7,53,4,35
+2019,Alabama,333,2019-11-16,Mississippi State Bulldogs,344,away,False,38,7,7,86,5,37
+2019,Alabama,333,2019-11-23,Western Carolina Catamounts,2717,home,False,66,3,4,45,3,36
+2019,Alabama,333,2019-11-30,Auburn Tigers,2,away,False,45,48,13,96,9,60
+2019,Alabama,333,2020-01-01,Michigan Wolverines,130,home,True,35,16,5,25,7,61
+2020,Alabama,333,2020-09-26,Missouri Tigers,142,away,False,38,19,7,49,3,20
+2020,Alabama,333,2020-10-03,Texas A&M Aggies,245,home,False,52,24,6,40,7,58
+2020,Alabama,333,2020-10-10,Ole Miss Rebels,145,away,False,63,48,8,76,6,67
+2020,Alabama,333,2020-10-18,Georgia Bulldogs,61,home,False,41,24,6,43,6,52
+2020,Alabama,333,2020-10-24,Tennessee Volunteers,2633,away,False,48,17,7,45,8,33
+2020,Alabama,333,2020-10-31,Mississippi State Bulldogs,344,home,False,41,0,10,71,9,85
+2020,Alabama,333,2020-11-21,Kentucky Wildcats,96,home,False,63,3,4,30,7,69
+2020,Alabama,333,2020-11-28,Auburn Tigers,2,home,False,42,13,4,30,5,38
+2020,Alabama,333,2020-12-06,LSU Tigers,99,away,False,55,17,4,43,4,30
+2020,Alabama,333,2020-12-12,Arkansas Razorbacks,8,away,False,52,3,2,23,8,36
+2020,Alabama,333,2020-12-20,Florida Gators,57,away,True,52,46,8,72,6,50
+2020,Alabama,333,2021-01-01,Notre Dame Fighting Irish,87,home,True,31,14,6,59,3,25
+2020,Alabama,333,2021-01-12,Ohio State Buckeyes,194,home,True,52,24,6,44,4,29
+2021,Alabama,333,2021-09-04,Miami Hurricanes,2390,away,True,44,13,8,81,7,75
+2021,Alabama,333,2021-09-11,Mercer Bears,2382,home,False,48,14,9,95,7,54
+2021,Alabama,333,2021-09-18,Florida Gators,57,away,False,31,29,11,75,7,67
+2021,Alabama,333,2021-09-25,Southern Miss Golden Eagles,2572,home,False,63,14,7,62,5,36
+2021,Alabama,333,2021-10-02,Ole Miss Rebels,145,home,False,42,21,5,52,7,55
+2021,Alabama,333,2021-10-10,Texas A&M Aggies,245,away,False,38,41,8,82,6,50
+2021,Alabama,333,2021-10-16,Mississippi State Bulldogs,344,away,False,49,9,6,60,6,25
+2021,Alabama,333,2021-10-23,Tennessee Volunteers,2633,home,False,52,24,4,30,12,98
+2021,Alabama,333,2021-11-06,LSU Tigers,99,home,False,20,14,9,64,6,30
+2021,Alabama,333,2021-11-13,New Mexico State Aggies,166,home,False,59,3,4,37,3,15
+2021,Alabama,333,2021-11-20,Arkansas Razorbacks,8,home,False,42,35,5,45,6,25
+2021,Alabama,333,2021-11-27,Auburn Tigers,2,away,False,24,22,11,129,7,52
+2021,Alabama,333,2021-12-04,Georgia Bulldogs,61,home,True,41,24,7,85,6,45
+2021,Alabama,333,2021-12-31,Cincinnati Bearcats,2132,home,True,27,6,6,36,6,39
+2021,Alabama,333,2022-01-11,Georgia Bulldogs,61,home,True,18,33,6,42,10,70
+2022,Alabama,333,2022-09-03,Utah State Aggies,328,home,False,55,0,6,40,11,110
+2022,Alabama,333,2022-09-10,Texas Longhorns,251,away,False,20,19,15,100,5,30
+2022,Alabama,333,2022-09-17,UL Monroe Warhawks,2433,home,False,63,7,6,60,3,25
+2022,Alabama,333,2022-09-24,Vanderbilt Commodores,238,home,False,55,3,6,55,6,36
+2022,Alabama,333,2022-10-01,Arkansas Razorbacks,8,away,False,49,26,10,101,6,31
+2022,Alabama,333,2022-10-09,Texas A&M Aggies,245,home,False,24,20,6,73,8,59
+2022,Alabama,333,2022-10-15,Tennessee Volunteers,2633,away,False,49,52,17,130,6,39
+2022,Alabama,333,2022-10-22,Mississippi State Bulldogs,344,home,False,30,6,3,20,10,100
+2022,Alabama,333,2022-11-05,LSU Tigers,99,away,False,31,32,9,92,7,64
+2022,Alabama,333,2022-11-12,Ole Miss Rebels,145,away,False,30,24,5,45,6,50
+2022,Alabama,333,2022-11-19,Austin Peay Governors,2046,home,False,34,0,4,30,3,30
+2022,Alabama,333,2022-11-26,Auburn Tigers,2,home,False,49,27,11,102,10,49
+2022,Alabama,333,2022-12-31,Kansas State Wildcats,2306,away,True,45,20,5,45,6,40
+2023,Alabama,333,2023-09-02,Middle Tennessee Blue Raiders,2393,home,False,56,7,2,19,9,84
+2023,Alabama,333,2023-09-09,Texas Longhorns,251,home,False,24,34,10,90,4,40
+2023,Alabama,333,2023-09-16,South Florida Bulls,58,away,False,17,3,5,35,5,40
+2023,Alabama,333,2023-09-23,Ole Miss Rebels,145,home,False,24,10,6,60,8,69
+2023,Alabama,333,2023-10-01,Mississippi State Bulldogs,344,away,False,40,17,6,40,3,15
+2023,Alabama,333,2023-10-07,Texas A&M Aggies,245,away,False,26,20,14,99,4,20
+2023,Alabama,333,2023-10-14,Arkansas Razorbacks,8,home,False,24,21,5,45,2,13
+2023,Alabama,333,2023-10-21,Tennessee Volunteers,2633,home,False,34,20,1,5,8,55
+2023,Alabama,333,2023-11-04,LSU Tigers,99,home,False,42,28,6,50,8,60
+2023,Alabama,333,2023-11-11,Kentucky Wildcats,96,away,False,49,21,6,64,4,19
+2023,Alabama,333,2023-11-18,Chattanooga Mocs,236,home,False,66,10,3,25,5,25
+2023,Alabama,333,2023-11-25,Auburn Tigers,2,away,False,27,24,8,72,5,28
+2023,Alabama,333,2023-12-02,Georgia Bulldogs,61,home,True,27,24,3,36,5,56
+2023,Alabama,333,2024-01-01,Michigan Wolverines,130,away,True,20,27,3,15,2,25
+2024,Alabama,333,2024-08-31,Western Kentucky Hilltoppers,98,home,False,63,0,7,59,4,40
+2024,Alabama,333,2024-09-07,South Florida Bulls,58,home,False,42,16,13,120,11,92
+2024,Alabama,333,2024-09-14,Wisconsin Badgers,275,away,False,42,10,4,40,4,23
+2024,Alabama,333,2024-09-28,Georgia Bulldogs,61,home,False,41,34,10,90,6,50
+2024,Alabama,333,2024-10-05,Vanderbilt Commodores,238,away,False,35,40,6,57,3,20
+2024,Alabama,333,2024-10-12,South Carolina Gamecocks,2579,home,False,27,25,7,67,6,49
+2024,Alabama,333,2024-10-19,Tennessee Volunteers,2633,away,False,17,24,15,115,11,95
+2024,Alabama,333,2024-10-26,Missouri Tigers,142,home,False,34,0,7,85,5,55
+2024,Alabama,333,2024-11-10,LSU Tigers,99,away,False,42,13,7,74,7,65
+2024,Alabama,333,2024-11-16,Mercer Bears,2382,home,False,52,7,6,60,5,32
+2024,Alabama,333,2024-11-24,Oklahoma Sooners,201,away,False,3,24,4,30,4,20
+2024,Alabama,333,2024-11-30,Auburn Tigers,2,home,False,28,14,6,66,6,46
+2024,Alabama,333,2024-12-31,Michigan Wolverines,130,away,True,13,19,3,35,3,35
+2025,Alabama,333,2025-08-30,Florida State Seminoles,52,away,False,17,31,8,70,4,40
+2025,Alabama,333,2025-09-06,UL Monroe Warhawks,2433,home,False,73,0,5,55,4,41
+2025,Alabama,333,2025-09-13,Wisconsin Badgers,275,home,False,38,14,7,57,6,65
+2025,Alabama,333,2025-09-27,Georgia Bulldogs,61,away,False,24,21,4,16,6,68
+2025,Alabama,333,2025-10-04,Vanderbilt Commodores,238,home,False,30,14,3,30,5,52
+2025,Alabama,333,2025-10-11,Missouri Tigers,142,away,False,27,24,5,30,4,45
+2025,Alabama,333,2025-10-18,Tennessee Volunteers,2633,home,False,37,20,7,59,10,66
+2025,Alabama,333,2025-10-25,South Carolina Gamecocks,2579,away,False,29,22,6,52,5,40
+2025,Alabama,333,2025-11-09,LSU Tigers,99,home,False,20,9,2,30,10,74
+2025,Alabama,333,2025-11-15,Oklahoma Sooners,201,home,False,21,23,2,25,5,37
+2025,Alabama,333,2025-11-22,Eastern Illinois Panthers,2197,home,False,56,0,4,29,3,35
+2025,Alabama,333,2025-11-30,Auburn Tigers,2,away,False,27,20,8,87,10,84
+2025,Alabama,333,2025-12-06,Georgia Bulldogs,61,home,True,7,28,1,5,7,80
+2025,Alabama,333,2025-12-20,Oklahoma Sooners,201,away,False,34,24,4,46,5,50
+2025,Alabama,333,2026-01-01,Indiana Hoosiers,84,away,True,3,38,1,5,1,10
+2016,Georgia,61,2016-09-03,North Carolina Tar Heels,153,away,True,33,24,9,70,13,101
+2016,Georgia,61,2016-09-10,Nicholls Colonels,2447,home,False,26,24,3,34,4,18
+2016,Georgia,61,2016-09-17,Missouri Tigers,142,away,False,28,27,3,30,7,50
+2016,Georgia,61,2016-09-24,Ole Miss Rebels,145,away,False,14,45,8,52,4,25
+2016,Georgia,61,2016-10-01,Tennessee Volunteers,2633,home,False,31,34,8,44,2,25
+2016,Georgia,61,2016-10-09,South Carolina Gamecocks,2579,away,False,28,14,8,56,5,44
+2016,Georgia,61,2016-10-15,Vanderbilt Commodores,238,home,False,16,17,8,53,5,45
+2016,Georgia,61,2016-10-29,Florida Gators,57,home,True,10,24,5,49,6,45
+2016,Georgia,61,2016-11-05,Kentucky Wildcats,96,away,False,27,24,6,54,5,40
+2016,Georgia,61,2016-11-12,Auburn Tigers,2,home,False,13,7,5,30,3,36
+2016,Georgia,61,2016-11-19,Louisiana Ragin' Cajuns,309,home,False,35,21,2,15,5,35
+2016,Georgia,61,2016-11-26,Georgia Tech Yellow Jackets,59,home,False,27,28,2,15,4,45
+2016,Georgia,61,2016-12-30,TCU Horned Frogs,2628,away,True,31,23,7,45,2,10
+2017,Georgia,61,2017-09-02,Appalachian State Mountaineers,2026,home,False,31,10,8,46,11,105
+2017,Georgia,61,2017-09-09,Notre Dame Fighting Irish,87,away,False,20,19,12,127,8,63
+2017,Georgia,61,2017-09-16,Samford Bulldogs,2535,home,False,42,14,3,25,3,17
+2017,Georgia,61,2017-09-23,Mississippi State Bulldogs,344,home,False,31,3,4,35,4,35
+2017,Georgia,61,2017-09-30,Tennessee Volunteers,2633,away,False,41,0,6,65,5,26
+2017,Georgia,61,2017-10-07,Vanderbilt Commodores,238,away,False,45,14,7,46,5,25
+2017,Georgia,61,2017-10-14,Missouri Tigers,142,home,False,53,28,8,42,4,40
+2017,Georgia,61,2017-10-28,Florida Gators,57,away,True,42,7,7,40,14,85
+2017,Georgia,61,2017-11-04,South Carolina Gamecocks,2579,home,False,24,10,5,55,2,15
+2017,Georgia,61,2017-11-11,Auburn Tigers,2,away,False,17,40,7,75,5,29
+2017,Georgia,61,2017-11-18,Kentucky Wildcats,96,home,False,42,13,7,59,2,30
+2017,Georgia,61,2017-11-25,Georgia Tech Yellow Jackets,59,away,False,38,7,2,25,3,40
+2017,Georgia,61,2017-12-02,Auburn Tigers,2,away,True,28,7,7,91,5,39
+2017,Georgia,61,2018-01-01,Oklahoma Sooners,201,away,True,54,48,6,39,1,5
+2017,Georgia,61,2018-01-09,Alabama Crimson Tide,333,home,True,23,26,6,65,6,41
+2018,Georgia,61,2018-09-01,Austin Peay Governors,2046,home,False,45,0,3,40,3,15
+2018,Georgia,61,2018-09-08,South Carolina Gamecocks,2579,away,False,41,17,4,47,3,40
+2018,Georgia,61,2018-09-15,Middle Tennessee Blue Raiders,2393,home,False,49,7,7,54,3,35
+2018,Georgia,61,2018-09-22,Missouri Tigers,142,away,False,43,29,7,66,5,30
+2018,Georgia,61,2018-09-29,Tennessee Volunteers,2633,home,False,38,12,6,40,5,25
+2018,Georgia,61,2018-10-06,Vanderbilt Commodores,238,home,False,41,13,13,115,9,69
+2018,Georgia,61,2018-10-13,LSU Tigers,99,away,False,16,36,4,20,2,19
+2018,Georgia,61,2018-10-27,Florida Gators,57,home,True,36,17,4,53,7,27
+2018,Georgia,61,2018-11-03,Kentucky Wildcats,96,away,False,34,17,4,45,6,64
+2018,Georgia,61,2018-11-11,Auburn Tigers,2,home,False,27,10,12,85,6,52
+2018,Georgia,61,2018-11-17,Massachusetts Minutemen,113,home,False,66,27,2,20,7,59
+2018,Georgia,61,2018-11-24,Georgia Tech Yellow Jackets,59,home,False,45,21,2,10,2,20
+2018,Georgia,61,2018-12-01,Alabama Crimson Tide,333,home,True,28,35,6,50,3,10
+2018,Georgia,61,2019-01-02,Texas Longhorns,251,home,True,21,28,3,35,6,60
+2019,Georgia,61,2019-08-31,Vanderbilt Commodores,238,away,False,30,6,10,115,10,63
+2019,Georgia,61,2019-09-07,Murray State Racers,93,home,False,63,17,5,40,5,40
+2019,Georgia,61,2019-09-14,Arkansas State Red Wolves,2032,home,False,55,0,5,41,2,10
+2019,Georgia,61,2019-09-22,Notre Dame Fighting Irish,87,home,False,23,17,6,43,12,85
+2019,Georgia,61,2019-10-05,Tennessee Volunteers,2633,away,False,43,14,11,107,6,51
+2019,Georgia,61,2019-10-12,South Carolina Gamecocks,2579,home,False,17,20,6,60,11,68
+2019,Georgia,61,2019-10-19,Kentucky Wildcats,96,home,False,21,0,4,33,7,60
+2019,Georgia,61,2019-11-02,Florida Gators,57,away,True,24,17,8,46,6,40
+2019,Georgia,61,2019-11-10,Missouri Tigers,142,home,False,27,0,3,15,5,47
+2019,Georgia,61,2019-11-16,Auburn Tigers,2,away,False,21,14,7,56,4,35
+2019,Georgia,61,2019-11-23,Texas A&M Aggies,245,home,False,19,13,2,30,7,45
+2019,Georgia,61,2019-11-30,Georgia Tech Yellow Jackets,59,away,False,52,7,0,0,4,34
+2019,Georgia,61,2019-12-07,LSU Tigers,99,away,True,10,37,3,17,5,45
+2019,Georgia,61,2020-01-02,Baylor Bears,239,away,True,26,14,6,82,10,90
+2020,Georgia,61,2020-09-26,Arkansas Razorbacks,8,away,False,37,10,12,108,10,53
+2020,Georgia,61,2020-10-03,Auburn Tigers,2,home,False,27,6,8,59,7,46
+2020,Georgia,61,2020-10-10,Tennessee Volunteers,2633,home,False,44,21,6,70,10,84
+2020,Georgia,61,2020-10-18,Alabama Crimson Tide,333,away,False,24,41,6,52,6,43
+2020,Georgia,61,2020-10-31,Kentucky Wildcats,96,away,False,14,3,2,19,6,54
+2020,Georgia,61,2020-11-07,Florida Gators,57,home,True,28,44,3,35,3,15
+2020,Georgia,61,2020-11-22,Mississippi State Bulldogs,344,home,False,31,24,5,60,3,25
+2020,Georgia,61,2020-11-29,South Carolina Gamecocks,2579,away,False,45,16,6,50,2,10
+2020,Georgia,61,2020-12-12,Missouri Tigers,142,away,False,49,14,1,9,4,30
+2020,Georgia,61,2021-01-01,Cincinnati Bearcats,2132,away,True,24,21,6,66,11,80
+2021,Georgia,61,2021-09-04,Clemson Tigers,228,away,True,10,3,10,94,7,59
+2021,Georgia,61,2021-09-11,UAB Blazers,5,home,False,56,7,4,47,11,78
+2021,Georgia,61,2021-09-18,South Carolina Gamecocks,2579,home,False,40,13,7,52,9,70
+2021,Georgia,61,2021-09-25,Vanderbilt Commodores,238,away,False,62,0,4,17,4,29
+2021,Georgia,61,2021-10-02,Arkansas Razorbacks,8,home,False,37,0,6,40,13,101
+2021,Georgia,61,2021-10-09,Auburn Tigers,2,away,False,34,10,3,18,5,34
+2021,Georgia,61,2021-10-16,Kentucky Wildcats,96,home,False,30,13,5,32,3,15
+2021,Georgia,61,2021-10-30,Florida Gators,57,away,True,34,7,6,38,8,50
+2021,Georgia,61,2021-11-06,Missouri Tigers,142,home,False,43,6,4,35,5,25
+2021,Georgia,61,2021-11-13,Tennessee Volunteers,2633,away,False,41,17,5,55,6,40
+2021,Georgia,61,2021-11-20,Charleston Southern Buccaneers,2127,home,False,56,7,2,25,5,53
+2021,Georgia,61,2021-11-27,Georgia Tech Yellow Jackets,59,away,False,45,0,0,0,5,43
+2021,Georgia,61,2021-12-04,Alabama Crimson Tide,333,away,True,24,41,6,45,7,85
+2021,Georgia,61,2022-01-01,Michigan Wolverines,130,away,True,34,11,5,70,4,30
+2021,Georgia,61,2022-01-11,Alabama Crimson Tide,333,away,True,33,18,10,70,6,42
+2022,Georgia,61,2022-09-03,Oregon Ducks,2483,home,True,49,3,7,75,5,35
+2022,Georgia,61,2022-09-10,Samford Bulldogs,2535,home,False,33,0,4,25,5,36
+2022,Georgia,61,2022-09-17,South Carolina Gamecocks,2579,away,False,48,7,3,20,5,60
+2022,Georgia,61,2022-09-24,Kent State Golden Flashes,2309,home,False,39,22,2,25,4,22
+2022,Georgia,61,2022-10-01,Missouri Tigers,142,away,False,26,22,5,55,7,66
+2022,Georgia,61,2022-10-08,Auburn Tigers,2,home,False,42,10,4,45,10,60
+2022,Georgia,61,2022-10-15,Vanderbilt Commodores,238,home,False,55,0,3,29,5,42
+2022,Georgia,61,2022-10-29,Florida Gators,57,home,True,42,20,4,40,7,53
+2022,Georgia,61,2022-11-05,Tennessee Volunteers,2633,home,False,27,13,6,60,9,55
+2022,Georgia,61,2022-11-13,Mississippi State Bulldogs,344,away,False,45,19,6,66,5,41
+2022,Georgia,61,2022-11-19,Kentucky Wildcats,96,away,False,16,6,4,55,3,12
+2022,Georgia,61,2022-11-26,Georgia Tech Yellow Jackets,59,home,False,37,14,6,70,6,32
+2022,Georgia,61,2022-12-03,LSU Tigers,99,home,True,50,30,4,33,3,24
+2022,Georgia,61,2023-01-01,Ohio State Buckeyes,194,home,True,42,41,4,45,4,24
+2022,Georgia,61,2023-01-10,TCU Horned Frogs,2628,home,True,65,7,4,30,5,50
+2023,Georgia,61,2023-09-02,UT Martin Skyhawks,2630,home,False,48,7,5,42,10,72
+2023,Georgia,61,2023-09-09,Ball State Cardinals,2050,home,False,45,3,3,40,3,27
+2023,Georgia,61,2023-09-16,South Carolina Gamecocks,2579,home,False,24,14,6,45,11,73
+2023,Georgia,61,2023-09-23,UAB Blazers,5,home,False,49,21,5,40,4,29
+2023,Georgia,61,2023-09-30,Auburn Tigers,2,away,False,27,20,3,30,1,5
+2023,Georgia,61,2023-10-07,Kentucky Wildcats,96,home,False,51,13,6,59,5,60
+2023,Georgia,61,2023-10-14,Vanderbilt Commodores,238,away,False,37,20,4,39,5,30
+2023,Georgia,61,2023-10-28,Florida Gators,57,away,True,43,20,2,10,2,17
+2023,Georgia,61,2023-11-04,Missouri Tigers,142,home,False,30,21,5,55,8,49
+2023,Georgia,61,2023-11-12,Ole Miss Rebels,145,home,False,52,17,5,55,9,68
+2023,Georgia,61,2023-11-18,Tennessee Volunteers,2633,away,False,38,10,2,15,3,20
+2023,Georgia,61,2023-11-26,Georgia Tech Yellow Jackets,59,away,False,31,23,6,60,3,15
+2023,Georgia,61,2023-12-02,Alabama Crimson Tide,333,away,True,24,27,5,56,3,36
+2023,Georgia,61,2023-12-30,Florida State Seminoles,52,away,True,63,3,5,55,3,44
+2024,Georgia,61,2024-08-31,Clemson Tigers,228,home,True,34,3,7,70,3,15
+2024,Georgia,61,2024-09-07,Tennessee Tech Golden Eagles,2635,home,False,48,3,9,85,5,51
+2024,Georgia,61,2024-09-14,Kentucky Wildcats,96,away,False,13,12,9,85,4,23
+2024,Georgia,61,2024-09-28,Alabama Crimson Tide,333,away,False,34,41,6,50,10,90
+2024,Georgia,61,2024-10-05,Auburn Tigers,2,home,False,31,13,7,85,5,25
+2024,Georgia,61,2024-10-12,Mississippi State Bulldogs,344,home,False,41,31,5,54,8,65
+2024,Georgia,61,2024-10-19,Texas Longhorns,251,away,False,30,15,7,78,8,41
+2024,Georgia,61,2024-11-02,Florida Gators,57,home,True,34,20,5,48,5,42
+2024,Georgia,61,2024-11-09,Ole Miss Rebels,145,away,False,10,28,4,20,3,30
+2024,Georgia,61,2024-11-17,Tennessee Volunteers,2633,home,False,31,17,7,59,9,70
+2024,Georgia,61,2024-11-23,Massachusetts Minutemen,113,home,False,59,21,1,5,3,40
+2024,Georgia,61,2024-11-30,Georgia Tech Yellow Jackets,59,home,False,44,42,3,27,5,29
+2024,Georgia,61,2024-12-07,Texas Longhorns,251,away,True,22,19,5,49,11,94
+2024,Georgia,61,2025-01-02,Notre Dame Fighting Irish,87,home,True,10,23,5,36,10,75
+2025,Georgia,61,2025-08-30,Marshall Thundering Herd,276,home,False,45,7,2,15,6,42
+2025,Georgia,61,2025-09-06,Austin Peay Governors,2046,home,False,28,6,3,24,3,10
+2025,Georgia,61,2025-09-13,Tennessee Volunteers,2633,away,False,44,41,5,39,10,82
+2025,Georgia,61,2025-09-27,Alabama Crimson Tide,333,home,False,21,24,6,68,4,16
+2025,Georgia,61,2025-10-04,Kentucky Wildcats,96,home,False,35,14,7,58,7,41
+2025,Georgia,61,2025-10-11,Auburn Tigers,2,away,False,20,10,6,60,11,103
+2025,Georgia,61,2025-10-18,Ole Miss Rebels,145,home,False,43,35,3,37,4,40
+2025,Georgia,61,2025-11-01,Florida Gators,57,away,True,24,20,7,65,5,50
+2025,Georgia,61,2025-11-08,Mississippi State Bulldogs,344,away,False,41,21,6,50,5,35
+2025,Georgia,61,2025-11-16,Texas Longhorns,251,home,False,35,10,1,15,9,58
+2025,Georgia,61,2025-11-22,Charlotte 49ers,2429,home,False,35,3,2,15,5,35
+2025,Georgia,61,2025-11-28,Georgia Tech Yellow Jackets,59,away,True,16,9,5,45,5,57
+2025,Georgia,61,2025-12-06,Alabama Crimson Tide,333,away,True,28,7,7,80,1,5
+2025,Georgia,61,2026-01-02,Ole Miss Rebels,145,home,True,34,39,4,38,4,48
+2016,Clemson,228,2016-09-04,Auburn Tigers,2,away,False,19,13,6,55,9,60
+2016,Clemson,228,2016-09-10,Troy Trojans,2653,home,False,30,24,7,71,11,95
+2016,Clemson,228,2016-09-17,South Carolina State Bulldogs,2569,home,False,59,0,7,59,5,19
+2016,Clemson,228,2016-09-22,Georgia Tech Yellow Jackets,59,away,False,26,7,10,80,2,15
+2016,Clemson,228,2016-10-02,Louisville Cardinals,97,home,False,42,36,6,59,11,104
+2016,Clemson,228,2016-10-07,Boston College Eagles,103,away,False,56,10,4,23,6,52
+2016,Clemson,228,2016-10-15,NC State Wolfpack,152,home,False,24,17,5,40,13,120
+2016,Clemson,228,2016-10-30,Florida State Seminoles,52,away,False,37,34,9,84,13,111
+2016,Clemson,228,2016-11-05,Syracuse Orange,183,home,False,54,0,3,30,10,55
+2016,Clemson,228,2016-11-12,Pittsburgh Panthers,221,home,False,42,43,9,101,3,40
+2016,Clemson,228,2016-11-20,Wake Forest Demon Deacons,154,away,False,35,13,6,33,5,44
+2016,Clemson,228,2016-11-27,South Carolina Gamecocks,2579,home,False,56,7,7,75,5,54
+2016,Clemson,228,2016-12-04,Virginia Tech Hokies,259,away,True,42,35,8,65,8,89
+2016,Clemson,228,2017-01-01,Ohio State Buckeyes,194,home,True,31,0,5,60,8,72
+2016,Clemson,228,2017-01-10,Alabama Crimson Tide,333,away,True,35,31,3,35,9,82
+2017,Clemson,228,2017-09-02,Kent State Golden Flashes,2309,home,False,56,3,4,45,11,79
+2017,Clemson,228,2017-09-09,Auburn Tigers,2,home,False,14,6,8,60,5,40
+2017,Clemson,228,2017-09-17,Louisville Cardinals,97,away,False,47,21,4,30,4,35
+2017,Clemson,228,2017-09-23,Boston College Eagles,103,home,False,34,7,2,10,2,20
+2017,Clemson,228,2017-10-01,Virginia Tech Hokies,259,away,False,31,17,4,20,4,31
+2017,Clemson,228,2017-10-07,Wake Forest Demon Deacons,154,home,False,28,14,9,79,4,25
+2017,Clemson,228,2017-10-13,Syracuse Orange,183,away,False,24,27,11,119,12,100
+2017,Clemson,228,2017-10-29,Georgia Tech Yellow Jackets,59,home,False,24,10,5,45,2,20
+2017,Clemson,228,2017-11-04,NC State Wolfpack,152,away,False,38,31,3,23,6,69
+2017,Clemson,228,2017-11-11,Florida State Seminoles,52,home,False,31,14,7,80,4,55
+2017,Clemson,228,2017-11-18,The Citadel Bulldogs,2643,home,False,61,3,4,30,5,41
+2017,Clemson,228,2017-11-26,South Carolina Gamecocks,2579,away,False,34,10,2,25,9,76
+2017,Clemson,228,2017-12-03,Miami Hurricanes,2390,home,True,38,3,2,13,4,30
+2017,Clemson,228,2018-01-02,Alabama Crimson Tide,333,home,True,6,24,4,29,2,10
+2018,Clemson,228,2018-09-01,Furman Paladins,231,home,False,48,7,4,50,3,22
+2018,Clemson,228,2018-09-08,Texas A&M Aggies,245,away,False,28,26,4,49,5,32
+2018,Clemson,228,2018-09-15,Georgia Southern Eagles,290,home,False,38,7,7,65,4,20
+2018,Clemson,228,2018-09-22,Georgia Tech Yellow Jackets,59,away,False,49,21,6,68,4,30
+2018,Clemson,228,2018-09-29,Syracuse Orange,183,home,False,27,23,3,16,5,31
+2018,Clemson,228,2018-10-06,Wake Forest Demon Deacons,154,away,False,63,3,3,28,5,55
+2018,Clemson,228,2018-10-20,NC State Wolfpack,152,home,False,41,7,8,67,6,49
+2018,Clemson,228,2018-10-27,Florida State Seminoles,52,away,False,59,10,5,50,16,134
+2018,Clemson,228,2018-11-03,Louisville Cardinals,97,home,False,77,16,3,15,10,100
+2018,Clemson,228,2018-11-11,Boston College Eagles,103,away,False,27,7,2,15,6,42
+2018,Clemson,228,2018-11-18,Duke Blue Devils,150,home,False,35,6,7,54,6,52
+2018,Clemson,228,2018-11-25,South Carolina Gamecocks,2579,home,False,56,35,8,79,7,48
+2018,Clemson,228,2018-12-02,Pittsburgh Panthers,221,away,True,42,10,6,41,8,54
+2018,Clemson,228,2018-12-29,Notre Dame Fighting Irish,87,home,True,30,3,6,65,7,50
+2018,Clemson,228,2019-01-08,Alabama Crimson Tide,333,away,True,44,16,1,12,6,60
+2019,Clemson,228,2019-08-30,Georgia Tech Yellow Jackets,59,home,False,52,14,6,43,2,10
+2019,Clemson,228,2019-09-07,Texas A&M Aggies,245,home,False,24,10,4,30,9,85
+2019,Clemson,228,2019-09-14,Syracuse Orange,183,away,False,41,6,7,70,9,85
+2019,Clemson,228,2019-09-21,Charlotte 49ers,2429,home,False,52,10,5,42,11,106
+2019,Clemson,228,2019-09-28,North Carolina Tar Heels,153,away,False,21,20,6,30,3,20
+2019,Clemson,228,2019-10-12,Florida State Seminoles,52,home,False,45,14,6,65,7,68
+2019,Clemson,228,2019-10-19,Louisville Cardinals,97,away,False,45,10,6,47,5,40
+2019,Clemson,228,2019-10-26,Boston College Eagles,103,home,False,59,7,3,20,4,55
+2019,Clemson,228,2019-11-02,Wofford Terriers,2747,home,False,59,14,6,49,2,30
+2019,Clemson,228,2019-11-10,NC State Wolfpack,152,away,False,55,10,10,72,6,45
+2019,Clemson,228,2019-11-16,Wake Forest Demon Deacons,154,home,False,52,3,4,35,3,25
+2019,Clemson,228,2019-11-30,South Carolina Gamecocks,2579,away,False,38,3,5,44,4,33
+2019,Clemson,228,2019-12-08,Virginia Cavaliers,258,home,True,62,17,4,25,3,27
+2019,Clemson,228,2019-12-29,Ohio State Buckeyes,194,away,True,29,23,6,47,8,77
+2019,Clemson,228,2020-01-14,LSU Tigers,99,away,True,25,42,7,65,11,118
+2020,Clemson,228,2020-09-12,Wake Forest Demon Deacons,154,away,False,37,13,5,55,1,6
+2020,Clemson,228,2020-09-19,The Citadel Bulldogs,2643,home,False,49,0,5,35,11,75
+2020,Clemson,228,2020-10-04,Virginia Cavaliers,258,home,False,41,23,8,65,1,15
+2020,Clemson,228,2020-10-10,Miami Hurricanes,2390,home,False,42,17,8,85,15,135
+2020,Clemson,228,2020-10-17,Georgia Tech Yellow Jackets,59,away,False,73,7,2,20,3,40
+2020,Clemson,228,2020-10-24,Syracuse Orange,183,home,False,47,21,4,25,5,35
+2020,Clemson,228,2020-10-31,Boston College Eagles,103,home,False,34,28,9,82,12,92
+2020,Clemson,228,2020-11-08,Notre Dame Fighting Irish,87,away,False,40,47,4,46,7,51
+2020,Clemson,228,2020-11-28,Pittsburgh Panthers,221,home,False,52,17,8,55,6,33
+2020,Clemson,228,2020-12-06,Virginia Tech Hokies,259,away,False,45,10,4,30,2,25
+2020,Clemson,228,2020-12-19,Notre Dame Fighting Irish,87,away,True,34,10,5,60,2,25
+2020,Clemson,228,2021-01-02,Ohio State Buckeyes,194,home,True,28,49,3,20,9,95
+2021,Clemson,228,2021-09-04,Georgia Bulldogs,61,home,True,3,10,7,59,10,94
+2021,Clemson,228,2021-09-11,South Carolina State Bulldogs,2569,home,False,49,3,5,35,10,70
+2021,Clemson,228,2021-09-18,Georgia Tech Yellow Jackets,59,home,False,14,8,8,66,10,63
+2021,Clemson,228,2021-09-25,NC State Wolfpack,152,away,False,21,27,13,94,11,105
+2021,Clemson,228,2021-10-02,Boston College Eagles,103,home,False,19,13,6,60,10,60
+2021,Clemson,228,2021-10-15,Syracuse Orange,183,away,False,17,14,7,60,8,77
+2021,Clemson,228,2021-10-23,Pittsburgh Panthers,221,away,False,17,27,5,46,9,87
+2021,Clemson,228,2021-10-30,Florida State Seminoles,52,home,False,30,20,6,25,9,85
+2021,Clemson,228,2021-11-06,Louisville Cardinals,97,away,False,30,24,3,30,7,53
+2021,Clemson,228,2021-11-13,UConn Huskies,41,home,False,44,7,5,47,11,70
+2021,Clemson,228,2021-11-20,Wake Forest Demon Deacons,154,home,False,48,27,4,30,7,35
+2021,Clemson,228,2021-11-28,South Carolina Gamecocks,2579,away,False,30,0,5,45,3,20
+2021,Clemson,228,2021-12-29,Iowa State Cyclones,66,away,True,20,13,5,60,8,70
+2022,Clemson,228,2022-09-06,Georgia Tech Yellow Jackets,59,away,False,41,10,3,10,10,86
+2022,Clemson,228,2022-09-10,Furman Paladins,231,home,False,35,12,6,45,7,64
+2022,Clemson,228,2022-09-18,Louisiana Tech Bulldogs,2348,home,False,48,20,6,60,6,43
+2022,Clemson,228,2022-09-24,Wake Forest Demon Deacons,154,away,False,51,45,10,120,3,45
+2022,Clemson,228,2022-10-01,NC State Wolfpack,152,home,False,30,20,9,95,10,86
+2022,Clemson,228,2022-10-08,Boston College Eagles,103,away,False,31,3,2,10,3,35
+2022,Clemson,228,2022-10-15,Florida State Seminoles,52,away,False,34,28,8,72,3,17
+2022,Clemson,228,2022-10-22,Syracuse Orange,183,home,False,27,21,6,50,10,88
+2022,Clemson,228,2022-11-05,Notre Dame Fighting Irish,87,away,False,14,35,7,55,5,67
+2022,Clemson,228,2022-11-12,Louisville Cardinals,97,home,False,31,16,4,25,6,65
+2022,Clemson,228,2022-11-19,Miami Hurricanes,2390,home,False,40,10,2,19,6,58
+2022,Clemson,228,2022-11-26,South Carolina Gamecocks,2579,home,False,30,31,3,23,5,55
+2022,Clemson,228,2022-12-04,North Carolina Tar Heels,153,away,True,39,10,6,46,3,25
+2022,Clemson,228,2022-12-31,Tennessee Volunteers,2633,home,True,14,31,4,45,9,105
+2023,Clemson,228,2023-09-05,Duke Blue Devils,150,away,False,7,28,1,5,7,45
+2023,Clemson,228,2023-09-09,Charleston Southern Buccaneers,2127,home,False,66,17,4,30,2,20
+2023,Clemson,228,2023-09-17,Florida Atlantic Owls,2226,home,False,48,14,5,55,6,60
+2023,Clemson,228,2023-09-23,Florida State Seminoles,52,home,False,24,31,6,50,7,60
+2023,Clemson,228,2023-09-30,Syracuse Orange,183,away,False,31,14,6,59,9,92
+2023,Clemson,228,2023-10-07,Wake Forest Demon Deacons,154,home,False,17,12,6,69,3,20
+2023,Clemson,228,2023-10-22,Miami Hurricanes,2390,away,False,20,28,7,38,8,90
+2023,Clemson,228,2023-10-28,NC State Wolfpack,152,away,False,17,24,4,45,2,6
+2023,Clemson,228,2023-11-04,Notre Dame Fighting Irish,87,home,False,31,23,0,0,5,40
+2023,Clemson,228,2023-11-11,Georgia Tech Yellow Jackets,59,home,False,42,21,6,69,4,38
+2023,Clemson,228,2023-11-18,North Carolina Tar Heels,153,home,False,31,20,7,58,10,75
+2023,Clemson,228,2023-11-26,South Carolina Gamecocks,2579,away,False,16,7,6,40,4,30
+2023,Clemson,228,2023-12-29,Kentucky Wildcats,96,away,True,38,35,6,36,4,45
+2024,Clemson,228,2024-08-31,Georgia Bulldogs,61,away,True,3,34,3,15,7,70
+2024,Clemson,228,2024-09-08,App State Mountaineers,2026,home,False,66,20,8,85,7,73
+2024,Clemson,228,2024-09-21,NC State Wolfpack,152,home,False,59,35,6,75,4,29
+2024,Clemson,228,2024-09-28,Stanford Cardinal,24,home,False,40,14,3,35,5,58
+2024,Clemson,228,2024-10-05,Florida State Seminoles,52,away,False,29,13,3,30,7,75
+2024,Clemson,228,2024-10-12,Wake Forest Demon Deacons,154,away,False,49,14,5,42,5,50
+2024,Clemson,228,2024-10-19,Virginia Cavaliers,258,home,False,48,31,10,97,6,61
+2024,Clemson,228,2024-11-02,Louisville Cardinals,97,home,False,21,33,5,39,6,35
+2024,Clemson,228,2024-11-09,Virginia Tech Hokies,259,away,False,24,14,7,64,6,45
+2024,Clemson,228,2024-11-16,Pittsburgh Panthers,221,away,False,24,20,6,57,13,100
+2024,Clemson,228,2024-11-23,The Citadel Bulldogs,2643,home,False,51,14,5,48,5,35
+2024,Clemson,228,2024-11-30,South Carolina Gamecocks,2579,home,False,14,17,3,15,7,66
+2024,Clemson,228,2024-12-08,SMU Mustangs,2567,away,True,34,31,0,0,6,65
+2024,Clemson,228,2024-12-21,Texas Longhorns,251,away,False,24,38,5,65,2,10
+2025,Clemson,228,2025-08-30,LSU Tigers,99,home,False,10,17,6,57,6,45
+2025,Clemson,228,2025-09-06,Troy Trojans,2653,home,False,27,16,3,30,10,97
+2025,Clemson,228,2025-09-13,Georgia Tech Yellow Jackets,59,away,False,21,24,2,25,3,16
+2025,Clemson,228,2025-09-20,Syracuse Orange,183,home,False,21,34,8,75,7,52
+2025,Clemson,228,2025-10-04,North Carolina Tar Heels,153,away,False,38,10,7,85,8,75
+2025,Clemson,228,2025-10-11,Boston College Eagles,103,away,False,41,10,3,28,3,40
+2025,Clemson,228,2025-10-18,SMU Mustangs,2567,home,False,24,35,2,9,5,60
+2025,Clemson,228,2025-11-01,Duke Blue Devils,150,home,False,45,46,8,87,9,62
+2025,Clemson,228,2025-11-09,Florida State Seminoles,52,home,False,24,10,2,17,5,50
+2025,Clemson,228,2025-11-15,Louisville Cardinals,97,away,False,20,19,3,30,10,84
+2025,Clemson,228,2025-11-22,Furman Paladins,231,home,False,45,10,5,54,4,35
+2025,Clemson,228,2025-11-29,South Carolina Gamecocks,2579,away,False,28,14,7,45,5,54
+2025,Clemson,228,2025-12-27,Penn State Nittany Lions,213,home,True,10,22,1,5,3,35
+2016,Notre Dame,87,2016-09-04,Texas Longhorns,251,away,False,47,50,8,64,11,104
+2016,Notre Dame,87,2016-09-10,Nevada Wolf Pack,2440,home,False,39,10,9,94,11,88
+2016,Notre Dame,87,2016-09-17,Michigan State Spartans,127,home,False,28,36,4,51,3,45
+2016,Notre Dame,87,2016-09-24,Duke Blue Devils,150,home,False,35,38,2,20,1,5
+2016,Notre Dame,87,2016-10-01,Syracuse Orange,183,away,True,50,33,6,55,5,45
+2016,Notre Dame,87,2016-10-08,NC State Wolfpack,152,away,False,3,10,5,40,2,20
+2016,Notre Dame,87,2016-10-15,Stanford Cardinal,24,home,False,10,17,7,47,5,40
+2016,Notre Dame,87,2016-10-29,Miami Hurricanes,2390,home,False,30,27,7,53,10,86
+2016,Notre Dame,87,2016-11-05,Navy Midshipmen,2426,away,True,27,28,7,47,1,5
+2016,Notre Dame,87,2016-11-12,Army Black Knights,349,home,True,44,6,7,35,7,68
+2016,Notre Dame,87,2016-11-19,Virginia Tech Hokies,259,home,False,31,34,10,78,5,35
+2016,Notre Dame,87,2016-11-26,USC Trojans,30,away,False,27,45,6,54,7,65
+2017,Notre Dame,87,2017-09-02,Temple Owls,218,home,False,49,16,4,20,6,42
+2017,Notre Dame,87,2017-09-09,Georgia Bulldogs,61,home,False,19,20,8,63,12,127
+2017,Notre Dame,87,2017-09-16,Boston College Eagles,103,away,False,49,20,5,45,6,35
+2017,Notre Dame,87,2017-09-24,Michigan State Spartans,127,away,False,38,18,6,65,9,97
+2017,Notre Dame,87,2017-09-30,Miami (OH) RedHawks,193,home,False,52,17,5,60,9,90
+2017,Notre Dame,87,2017-10-07,North Carolina Tar Heels,153,away,False,33,10,10,80,10,104
+2017,Notre Dame,87,2017-10-21,USC Trojans,30,home,False,49,14,7,51,7,40
+2017,Notre Dame,87,2017-10-28,NC State Wolfpack,152,home,False,35,14,4,29,12,89
+2017,Notre Dame,87,2017-11-04,Wake Forest Demon Deacons,154,home,False,48,37,5,40,3,15
+2017,Notre Dame,87,2017-11-12,Miami Hurricanes,2390,away,False,8,41,6,49,1,5
+2017,Notre Dame,87,2017-11-18,Navy Midshipmen,2426,home,False,24,17,3,35,2,16
+2017,Notre Dame,87,2017-11-26,Stanford Cardinal,24,away,False,20,38,8,81,3,30
+2017,Notre Dame,87,2018-01-01,LSU Tigers,99,away,True,21,17,4,15,5,27
+2018,Notre Dame,87,2018-09-01,Michigan Wolverines,130,home,False,24,17,4,40,7,52
+2018,Notre Dame,87,2018-09-08,Ball State Cardinals,2050,home,False,24,16,2,20,3,10
+2018,Notre Dame,87,2018-09-15,Vanderbilt Commodores,238,home,False,22,17,6,63,5,60
+2018,Notre Dame,87,2018-09-22,Wake Forest Demon Deacons,154,away,False,56,27,4,37,3,23
+2018,Notre Dame,87,2018-09-29,Stanford Cardinal,24,home,False,38,17,6,67,7,50
+2018,Notre Dame,87,2018-10-07,Virginia Tech Hokies,259,away,False,45,23,5,19,6,41
+2018,Notre Dame,87,2018-10-13,Pittsburgh Panthers,221,home,False,19,14,4,35,8,80
+2018,Notre Dame,87,2018-10-28,Navy Midshipmen,2426,away,True,44,22,3,40,4,16
+2018,Notre Dame,87,2018-11-03,Northwestern Wildcats,77,away,False,31,21,8,58,0,0
+2018,Notre Dame,87,2018-11-11,Florida State Seminoles,52,home,False,42,13,8,74,5,35
+2018,Notre Dame,87,2018-11-17,Syracuse Orange,183,home,True,36,3,7,55,3,45
+2018,Notre Dame,87,2018-11-25,USC Trojans,30,away,False,24,17,3,38,8,71
+2018,Notre Dame,87,2018-12-29,Clemson Tigers,228,away,True,3,30,7,50,6,65
+2019,Notre Dame,87,2019-09-03,Louisville Cardinals,97,away,False,35,17,4,20,8,50
+2019,Notre Dame,87,2019-09-14,New Mexico Lobos,167,home,False,66,14,7,53,5,39
+2019,Notre Dame,87,2019-09-22,Georgia Bulldogs,61,away,False,17,23,12,85,6,43
+2019,Notre Dame,87,2019-09-28,Virginia Cavaliers,258,home,False,35,20,9,50,6,52
+2019,Notre Dame,87,2019-10-05,Bowling Green Falcons,189,home,False,52,0,1,5,6,39
+2019,Notre Dame,87,2019-10-12,USC Trojans,30,home,False,30,27,5,45,2,20
+2019,Notre Dame,87,2019-10-26,Michigan Wolverines,130,away,False,14,45,7,62,4,50
+2019,Notre Dame,87,2019-11-02,Virginia Tech Hokies,259,home,False,21,20,7,75,6,53
+2019,Notre Dame,87,2019-11-10,Duke Blue Devils,150,away,False,38,7,8,56,8,63
+2019,Notre Dame,87,2019-11-16,Navy Midshipmen,2426,home,False,52,20,2,15,2,20
+2019,Notre Dame,87,2019-11-23,Boston College Eagles,103,home,False,40,7,8,54,2,25
+2019,Notre Dame,87,2019-11-30,Stanford Cardinal,24,away,False,45,24,11,95,6,56
+2019,Notre Dame,87,2019-12-28,Iowa State Cyclones,66,away,True,33,9,3,30,1,5
+2020,Notre Dame,87,2020-09-12,Duke Blue Devils,150,home,False,27,13,4,39,4,31
+2020,Notre Dame,87,2020-09-19,South Florida Bulls,58,home,False,52,0,2,25,4,40
+2020,Notre Dame,87,2020-10-10,Florida State Seminoles,52,home,False,42,26,4,28,7,59
+2020,Notre Dame,87,2020-10-17,Louisville Cardinals,97,home,False,12,7,3,18,7,60
+2020,Notre Dame,87,2020-10-24,Pittsburgh Panthers,221,away,False,45,3,7,63,12,93
+2020,Notre Dame,87,2020-10-31,Georgia Tech Yellow Jackets,59,away,False,31,13,5,50,6,50
+2020,Notre Dame,87,2020-11-08,Clemson Tigers,228,home,False,47,40,7,51,4,46
+2020,Notre Dame,87,2020-11-14,Boston College Eagles,103,away,False,45,31,8,69,6,56
+2020,Notre Dame,87,2020-11-27,North Carolina Tar Heels,153,away,False,31,17,4,24,9,90
+2020,Notre Dame,87,2020-12-05,Syracuse Orange,183,home,False,45,21,4,40,8,90
+2020,Notre Dame,87,2020-12-19,Clemson Tigers,228,home,True,10,34,2,25,5,60
+2020,Notre Dame,87,2021-01-01,Alabama Crimson Tide,333,away,True,14,31,3,25,6,59
+2021,Notre Dame,87,2021-09-05,Florida State Seminoles,52,away,False,41,38,5,38,9,54
+2021,Notre Dame,87,2021-09-11,Toledo Rockets,2649,home,False,32,29,3,27,11,99
+2021,Notre Dame,87,2021-09-18,Purdue Boilermakers,2509,home,False,27,13,8,61,7,70
+2021,Notre Dame,87,2021-09-25,Wisconsin Badgers,275,away,True,41,13,11,93,5,33
+2021,Notre Dame,87,2021-10-02,Cincinnati Bearcats,2132,home,False,13,24,7,55,5,25
+2021,Notre Dame,87,2021-10-09,Virginia Tech Hokies,259,away,False,32,29,7,70,5,40
+2021,Notre Dame,87,2021-10-23,USC Trojans,30,home,False,31,16,4,39,9,65
+2021,Notre Dame,87,2021-10-30,North Carolina Tar Heels,153,home,False,44,34,5,40,9,75
+2021,Notre Dame,87,2021-11-06,Navy Midshipmen,2426,home,False,34,6,7,75,6,44
+2021,Notre Dame,87,2021-11-14,Virginia Cavaliers,258,away,False,28,3,4,32,6,51
+2021,Notre Dame,87,2021-11-20,Georgia Tech Yellow Jackets,59,home,False,55,0,3,32,5,40
+2021,Notre Dame,87,2021-11-28,Stanford Cardinal,24,away,False,45,14,4,35,9,64
+2021,Notre Dame,87,2022-01-01,Oklahoma State Cowboys,197,home,True,35,37,5,45,4,45
+2022,Notre Dame,87,2022-09-03,Ohio State Buckeyes,194,away,False,10,21,5,61,7,75
+2022,Notre Dame,87,2022-09-10,Marshall Thundering Herd,276,home,False,21,26,4,30,6,44
+2022,Notre Dame,87,2022-09-17,California Golden Bears,25,home,False,24,17,8,66,6,59
+2022,Notre Dame,87,2022-09-24,North Carolina Tar Heels,153,away,False,45,32,5,46,9,64
+2022,Notre Dame,87,2022-10-08,BYU Cougars,252,home,True,28,20,1,10,1,5
+2022,Notre Dame,87,2022-10-15,Stanford Cardinal,24,home,False,14,16,3,20,2,12
+2022,Notre Dame,87,2022-10-22,UNLV Rebels,2439,home,False,44,21,4,34,5,45
+2022,Notre Dame,87,2022-10-29,Syracuse Orange,183,away,False,41,24,7,60,3,30
+2022,Notre Dame,87,2022-11-05,Clemson Tigers,228,home,False,35,14,5,67,7,55
+2022,Notre Dame,87,2022-11-12,Navy Midshipmen,2426,away,True,35,32,8,57,4,30
+2022,Notre Dame,87,2022-11-19,Boston College Eagles,103,home,False,44,0,2,20,3,20
+2022,Notre Dame,87,2022-11-27,USC Trojans,30,away,False,27,38,4,39,6,55
+2022,Notre Dame,87,2022-12-30,South Carolina Gamecocks,2579,away,True,45,38,4,40,8,73
+2023,Notre Dame,87,2023-08-26,Navy Midshipmen,2426,home,True,42,3,1,10,3,26
+2023,Notre Dame,87,2023-09-02,Tennessee State Tigers,2634,home,False,56,3,4,36,5,45
+2023,Notre Dame,87,2023-09-09,NC State Wolfpack,152,away,False,45,24,10,82,8,54
+2023,Notre Dame,87,2023-09-16,Central Michigan Chippewas,2117,home,False,41,17,8,72,2,20
+2023,Notre Dame,87,2023-09-23,Ohio State Buckeyes,194,home,False,14,17,4,50,5,35
+2023,Notre Dame,87,2023-09-30,Duke Blue Devils,150,away,False,21,14,12,70,2,28
+2023,Notre Dame,87,2023-10-07,Louisville Cardinals,97,away,False,20,33,3,35,6,35
+2023,Notre Dame,87,2023-10-14,USC Trojans,30,home,False,48,20,5,54,9,75
+2023,Notre Dame,87,2023-10-28,Pittsburgh Panthers,221,home,False,58,7,6,75,5,45
+2023,Notre Dame,87,2023-11-04,Clemson Tigers,228,away,False,23,31,5,40,0,0
+2023,Notre Dame,87,2023-11-18,Wake Forest Demon Deacons,154,home,False,45,7,3,35,4,50
+2023,Notre Dame,87,2023-11-26,Stanford Cardinal,24,away,False,56,23,5,49,2,15
+2023,Notre Dame,87,2023-12-29,Oregon State Beavers,204,home,True,40,8,3,15,3,24
+2024,Notre Dame,87,2024-08-31,Texas A&M Aggies,245,away,False,23,13,11,99,6,55
+2024,Notre Dame,87,2024-09-07,Northern Illinois Huskies,2459,home,False,14,16,3,35,3,35
+2024,Notre Dame,87,2024-09-14,Purdue Boilermakers,2509,away,False,66,7,5,40,7,68
+2024,Notre Dame,87,2024-09-21,Miami (OH) RedHawks,193,home,False,28,3,8,66,10,100
+2024,Notre Dame,87,2024-09-28,Louisville Cardinals,97,home,False,31,24,5,45,6,50
+2024,Notre Dame,87,2024-10-12,Stanford Cardinal,24,home,False,49,7,4,35,3,25
+2024,Notre Dame,87,2024-10-19,Georgia Tech Yellow Jackets,59,away,True,31,13,5,37,5,25
+2024,Notre Dame,87,2024-10-26,Navy Midshipmen,2426,away,True,51,14,9,80,5,40
+2024,Notre Dame,87,2024-11-10,Florida State Seminoles,52,home,False,52,3,3,30,6,56
+2024,Notre Dame,87,2024-11-16,Virginia Cavaliers,258,home,False,35,14,9,89,6,40
+2024,Notre Dame,87,2024-11-24,Army Black Knights,349,home,True,49,14,5,44,2,26
+2024,Notre Dame,87,2024-11-30,USC Trojans,30,away,False,49,35,3,44,7,69
+2024,Notre Dame,87,2024-12-21,Indiana Hoosiers,84,home,False,27,17,6,35,5,46
+2024,Notre Dame,87,2025-01-02,Georgia Bulldogs,61,away,True,23,10,10,75,5,36
+2024,Notre Dame,87,2025-01-10,Penn State Nittany Lions,213,away,True,27,24,4,30,5,44
+2024,Notre Dame,87,2025-01-21,Ohio State Buckeyes,194,home,True,23,34,3,30,6,58
+2025,Notre Dame,87,2025-08-31,Miami Hurricanes,2390,away,False,24,27,5,15,6,51
+2025,Notre Dame,87,2025-09-13,Texas A&M Aggies,245,home,False,40,41,5,31,13,86
+2025,Notre Dame,87,2025-09-20,Purdue Boilermakers,2509,home,False,56,30,3,30,7,75
+2025,Notre Dame,87,2025-09-27,Arkansas Razorbacks,8,away,False,56,13,5,42,6,60
+2025,Notre Dame,87,2025-10-04,Boise State Broncos,68,home,False,28,7,11,112,13,112
+2025,Notre Dame,87,2025-10-11,NC State Wolfpack,152,home,False,36,7,6,55,5,60
+2025,Notre Dame,87,2025-10-18,USC Trojans,30,home,False,34,24,8,96,1,5
+2025,Notre Dame,87,2025-11-01,Boston College Eagles,103,away,False,25,10,7,67,9,80
+2025,Notre Dame,87,2025-11-09,Navy Midshipmen,2426,home,False,49,10,0,0,6,57
+2025,Notre Dame,87,2025-11-15,Pittsburgh Panthers,221,away,False,37,15,8,84,5,41
+2025,Notre Dame,87,2025-11-22,Syracuse Orange,183,home,False,70,7,5,55,5,39
+2025,Notre Dame,87,2025-11-30,Stanford Cardinal,24,away,False,49,20,3,35,3,23
