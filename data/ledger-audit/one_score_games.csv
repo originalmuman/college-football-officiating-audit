@@ -1,0 +1,936 @@
+team_id,team,year,opp,ha,neutral,our_score,opp_score,margin,one_score,won
+130,Michigan Wolverines,2016,HAW,home,False,63,3,60,False,True
+130,Michigan Wolverines,2016,UCF,home,False,51,14,37,False,True
+130,Michigan Wolverines,2016,COLO,home,False,45,28,17,False,True
+130,Michigan Wolverines,2016,PSU,home,False,49,10,39,False,True
+130,Michigan Wolverines,2016,WIS,home,False,14,7,7,True,True
+130,Michigan Wolverines,2016,RUTG,away,False,78,0,78,False,True
+130,Michigan Wolverines,2016,ILL,home,False,41,8,33,False,True
+130,Michigan Wolverines,2016,MSU,away,False,32,23,9,False,True
+130,Michigan Wolverines,2016,MD,home,False,59,3,56,False,True
+130,Michigan Wolverines,2016,IOWA,away,False,13,14,-1,True,False
+130,Michigan Wolverines,2016,IND,home,False,20,10,10,False,True
+130,Michigan Wolverines,2016,OSU,away,False,27,30,-3,True,False
+130,Michigan Wolverines,2016,FSU,away,True,32,33,-1,True,False
+130,Michigan Wolverines,2017,FLA,away,True,33,17,16,False,True
+130,Michigan Wolverines,2017,CIN,home,False,36,14,22,False,True
+130,Michigan Wolverines,2017,AFA,home,False,29,13,16,False,True
+130,Michigan Wolverines,2017,PUR,away,False,28,10,18,False,True
+130,Michigan Wolverines,2017,MSU,home,False,10,14,-4,True,False
+130,Michigan Wolverines,2017,IND,away,False,27,20,7,True,True
+130,Michigan Wolverines,2017,PSU,away,False,13,42,-29,False,False
+130,Michigan Wolverines,2017,RUTG,home,False,35,14,21,False,True
+130,Michigan Wolverines,2017,MINN,home,False,33,10,23,False,True
+130,Michigan Wolverines,2017,MD,away,False,35,10,25,False,True
+130,Michigan Wolverines,2017,WIS,away,False,10,24,-14,False,False
+130,Michigan Wolverines,2017,OSU,home,False,20,31,-11,False,False
+130,Michigan Wolverines,2017,SC,away,True,19,26,-7,True,False
+130,Michigan Wolverines,2018,ND,away,False,17,24,-7,True,False
+130,Michigan Wolverines,2018,WMU,home,False,49,3,46,False,True
+130,Michigan Wolverines,2018,SMU,home,False,45,20,25,False,True
+130,Michigan Wolverines,2018,NEB,home,False,56,10,46,False,True
+130,Michigan Wolverines,2018,NW,away,False,20,17,3,True,True
+130,Michigan Wolverines,2018,MD,home,False,42,21,21,False,True
+130,Michigan Wolverines,2018,WIS,home,False,38,13,25,False,True
+130,Michigan Wolverines,2018,MSU,away,False,21,7,14,False,True
+130,Michigan Wolverines,2018,PSU,home,False,42,7,35,False,True
+130,Michigan Wolverines,2018,RUTG,away,False,42,7,35,False,True
+130,Michigan Wolverines,2018,IND,home,False,31,20,11,False,True
+130,Michigan Wolverines,2018,OSU,away,False,39,62,-23,False,False
+130,Michigan Wolverines,2018,FLA,home,True,15,41,-26,False,False
+130,Michigan Wolverines,2019,MTSU,home,False,40,21,19,False,True
+130,Michigan Wolverines,2019,ARMY,home,False,24,21,3,True,True
+130,Michigan Wolverines,2019,WIS,away,False,14,35,-21,False,False
+130,Michigan Wolverines,2019,RUTG,home,False,52,0,52,False,True
+130,Michigan Wolverines,2019,IOWA,home,False,10,3,7,True,True
+130,Michigan Wolverines,2019,ILL,away,False,42,25,17,False,True
+130,Michigan Wolverines,2019,PSU,away,False,21,28,-7,True,False
+130,Michigan Wolverines,2019,ND,home,False,45,14,31,False,True
+130,Michigan Wolverines,2019,MD,away,False,38,7,31,False,True
+130,Michigan Wolverines,2019,MSU,home,False,44,10,34,False,True
+130,Michigan Wolverines,2019,IND,away,False,39,14,25,False,True
+130,Michigan Wolverines,2019,OSU,home,False,27,56,-29,False,False
+130,Michigan Wolverines,2019,ALA,away,True,16,35,-19,False,False
+130,Michigan Wolverines,2020,MINN,away,False,49,24,25,False,True
+130,Michigan Wolverines,2020,MSU,home,False,24,27,-3,True,False
+130,Michigan Wolverines,2020,IU,away,False,21,38,-17,False,False
+130,Michigan Wolverines,2020,WISC,home,False,11,49,-38,False,False
+130,Michigan Wolverines,2020,RUTG,away,False,48,42,6,True,True
+130,Michigan Wolverines,2020,PSU,home,False,17,27,-10,False,False
+130,Michigan Wolverines,2021,WMU,home,False,47,14,33,False,True
+130,Michigan Wolverines,2021,WASH,home,False,31,10,21,False,True
+130,Michigan Wolverines,2021,NIU,home,False,63,10,53,False,True
+130,Michigan Wolverines,2021,RUTG,home,False,20,13,7,True,True
+130,Michigan Wolverines,2021,WISC,away,False,38,17,21,False,True
+130,Michigan Wolverines,2021,NEB,away,False,32,29,3,True,True
+130,Michigan Wolverines,2021,NU,home,False,33,7,26,False,True
+130,Michigan Wolverines,2021,MSU,away,False,33,37,-4,True,False
+130,Michigan Wolverines,2021,IU,home,False,29,7,22,False,True
+130,Michigan Wolverines,2021,PSU,away,False,21,17,4,True,True
+130,Michigan Wolverines,2021,MD,away,False,59,18,41,False,True
+130,Michigan Wolverines,2021,OSU,home,False,42,27,15,False,True
+130,Michigan Wolverines,2021,IOWA,away,True,42,3,39,False,True
+130,Michigan Wolverines,2021,UGA,home,True,11,34,-23,False,False
+130,Michigan Wolverines,2022,CSU,home,False,51,7,44,False,True
+130,Michigan Wolverines,2022,HAW,home,False,56,10,46,False,True
+130,Michigan Wolverines,2022,CONN,home,False,59,0,59,False,True
+130,Michigan Wolverines,2022,MD,home,False,34,27,7,True,True
+130,Michigan Wolverines,2022,IOWA,away,False,27,14,13,False,True
+130,Michigan Wolverines,2022,IU,away,False,31,10,21,False,True
+130,Michigan Wolverines,2022,PSU,home,False,41,17,24,False,True
+130,Michigan Wolverines,2022,MSU,home,False,29,7,22,False,True
+130,Michigan Wolverines,2022,RUTG,away,False,52,17,35,False,True
+130,Michigan Wolverines,2022,NEB,home,False,34,3,31,False,True
+130,Michigan Wolverines,2022,ILL,home,False,19,17,2,True,True
+130,Michigan Wolverines,2022,OSU,away,False,45,23,22,False,True
+130,Michigan Wolverines,2022,PUR,home,True,43,22,21,False,True
+130,Michigan Wolverines,2022,TCU,home,True,45,51,-6,True,False
+130,Michigan Wolverines,2023,ECU,home,False,30,3,27,False,True
+130,Michigan Wolverines,2023,UNLV,home,False,35,7,28,False,True
+130,Michigan Wolverines,2023,BGSU,home,False,31,6,25,False,True
+130,Michigan Wolverines,2023,RUTG,home,False,31,7,24,False,True
+130,Michigan Wolverines,2023,NEB,away,False,45,7,38,False,True
+130,Michigan Wolverines,2023,MINN,away,False,52,10,42,False,True
+130,Michigan Wolverines,2023,IU,home,False,52,7,45,False,True
+130,Michigan Wolverines,2023,MSU,away,False,49,0,49,False,True
+130,Michigan Wolverines,2023,PUR,home,False,41,13,28,False,True
+130,Michigan Wolverines,2023,PSU,away,False,24,15,9,False,True
+130,Michigan Wolverines,2023,MD,away,False,31,24,7,True,True
+130,Michigan Wolverines,2023,OSU,home,False,30,24,6,True,True
+130,Michigan Wolverines,2023,IOWA,away,True,26,0,26,False,True
+130,Michigan Wolverines,2023,ALA,home,True,27,20,7,True,True
+130,Michigan Wolverines,2023,WASH,home,True,34,13,21,False,True
+130,Michigan Wolverines,2024,FRES,home,False,30,10,20,False,True
+130,Michigan Wolverines,2024,TEX,home,False,12,31,-19,False,False
+130,Michigan Wolverines,2024,ARST,home,False,28,18,10,False,True
+130,Michigan Wolverines,2024,USC,home,False,27,24,3,True,True
+130,Michigan Wolverines,2024,MINN,home,False,27,24,3,True,True
+130,Michigan Wolverines,2024,WASH,away,False,17,27,-10,False,False
+130,Michigan Wolverines,2024,ILL,away,False,7,21,-14,False,False
+130,Michigan Wolverines,2024,MSU,home,False,24,17,7,True,True
+130,Michigan Wolverines,2024,ORE,home,False,17,38,-21,False,False
+130,Michigan Wolverines,2024,IU,away,False,15,20,-5,True,False
+130,Michigan Wolverines,2024,NU,home,False,50,6,44,False,True
+130,Michigan Wolverines,2024,OSU,away,False,13,10,3,True,True
+130,Michigan Wolverines,2024,ALA,home,True,19,13,6,True,True
+130,Michigan Wolverines,2025,UNM,home,False,34,17,17,False,True
+130,Michigan Wolverines,2025,OU,away,False,13,24,-11,False,False
+130,Michigan Wolverines,2025,CMU,home,False,63,3,60,False,True
+130,Michigan Wolverines,2025,NEB,away,False,30,27,3,True,True
+130,Michigan Wolverines,2025,WIS,home,False,24,10,14,False,True
+130,Michigan Wolverines,2025,USC,away,False,13,31,-18,False,False
+130,Michigan Wolverines,2025,WASH,home,False,24,7,17,False,True
+130,Michigan Wolverines,2025,MSU,away,False,31,20,11,False,True
+130,Michigan Wolverines,2025,PUR,home,False,21,16,5,True,True
+130,Michigan Wolverines,2025,NU,away,False,24,22,2,True,True
+130,Michigan Wolverines,2025,MD,away,False,45,20,25,False,True
+130,Michigan Wolverines,2025,OSU,home,False,9,27,-18,False,False
+130,Michigan Wolverines,2025,TEX,away,True,27,41,-14,False,False
+194,Ohio State Buckeyes,2016,BGSU,home,False,77,10,67,False,True
+194,Ohio State Buckeyes,2016,TLSA,home,False,48,3,45,False,True
+194,Ohio State Buckeyes,2016,OKLA,away,False,45,24,21,False,True
+194,Ohio State Buckeyes,2016,RUTG,home,False,58,0,58,False,True
+194,Ohio State Buckeyes,2016,IND,home,False,38,17,21,False,True
+194,Ohio State Buckeyes,2016,WIS,away,False,30,23,7,True,True
+194,Ohio State Buckeyes,2016,PSU,away,False,21,24,-3,True,False
+194,Ohio State Buckeyes,2016,NW,home,False,24,20,4,True,True
+194,Ohio State Buckeyes,2016,NEB,home,False,62,3,59,False,True
+194,Ohio State Buckeyes,2016,MD,away,False,62,3,59,False,True
+194,Ohio State Buckeyes,2016,MSU,away,False,17,16,1,True,True
+194,Ohio State Buckeyes,2016,MICH,home,False,30,27,3,True,True
+194,Ohio State Buckeyes,2016,CLEM,away,True,0,31,-31,False,False
+194,Ohio State Buckeyes,2017,IND,away,False,49,21,28,False,True
+194,Ohio State Buckeyes,2017,OKLA,home,False,16,31,-15,False,False
+194,Ohio State Buckeyes,2017,ARMY,home,False,38,7,31,False,True
+194,Ohio State Buckeyes,2017,UNLV,home,False,54,21,33,False,True
+194,Ohio State Buckeyes,2017,RUTG,away,False,56,0,56,False,True
+194,Ohio State Buckeyes,2017,MD,home,False,62,14,48,False,True
+194,Ohio State Buckeyes,2017,NEB,away,False,56,14,42,False,True
+194,Ohio State Buckeyes,2017,PSU,home,False,39,38,1,True,True
+194,Ohio State Buckeyes,2017,IOWA,away,False,24,55,-31,False,False
+194,Ohio State Buckeyes,2017,MSU,home,False,48,3,45,False,True
+194,Ohio State Buckeyes,2017,ILL,home,False,52,14,38,False,True
+194,Ohio State Buckeyes,2017,MICH,away,False,31,20,11,False,True
+194,Ohio State Buckeyes,2017,WIS,away,True,27,21,6,True,True
+194,Ohio State Buckeyes,2017,USC,home,True,24,7,17,False,True
+194,Ohio State Buckeyes,2018,ORST,home,False,77,31,46,False,True
+194,Ohio State Buckeyes,2018,RUTG,home,False,52,3,49,False,True
+194,Ohio State Buckeyes,2018,TCU,away,True,40,28,12,False,True
+194,Ohio State Buckeyes,2018,TULN,home,False,49,6,43,False,True
+194,Ohio State Buckeyes,2018,PSU,away,False,27,26,1,True,True
+194,Ohio State Buckeyes,2018,IND,home,False,49,26,23,False,True
+194,Ohio State Buckeyes,2018,MINN,home,False,30,14,16,False,True
+194,Ohio State Buckeyes,2018,PUR,away,False,20,49,-29,False,False
+194,Ohio State Buckeyes,2018,NEB,home,False,36,31,5,True,True
+194,Ohio State Buckeyes,2018,MSU,away,False,26,6,20,False,True
+194,Ohio State Buckeyes,2018,MD,away,False,52,51,1,True,True
+194,Ohio State Buckeyes,2018,MICH,home,False,62,39,23,False,True
+194,Ohio State Buckeyes,2018,NW,home,True,45,24,21,False,True
+194,Ohio State Buckeyes,2018,WASH,home,True,28,23,5,True,True
+194,Ohio State Buckeyes,2019,FAU,home,False,45,21,24,False,True
+194,Ohio State Buckeyes,2019,CIN,home,False,42,0,42,False,True
+194,Ohio State Buckeyes,2019,IND,away,False,51,10,41,False,True
+194,Ohio State Buckeyes,2019,M-OH,home,False,76,5,71,False,True
+194,Ohio State Buckeyes,2019,NEB,away,False,48,7,41,False,True
+194,Ohio State Buckeyes,2019,MSU,home,False,34,10,24,False,True
+194,Ohio State Buckeyes,2019,NW,away,False,52,3,49,False,True
+194,Ohio State Buckeyes,2019,WIS,home,False,38,7,31,False,True
+194,Ohio State Buckeyes,2019,MD,home,False,73,14,59,False,True
+194,Ohio State Buckeyes,2019,RUTG,away,False,56,21,35,False,True
+194,Ohio State Buckeyes,2019,PSU,home,False,28,17,11,False,True
+194,Ohio State Buckeyes,2019,MICH,away,False,56,27,29,False,True
+194,Ohio State Buckeyes,2019,WIS,away,True,34,21,13,False,True
+194,Ohio State Buckeyes,2019,CLEM,home,True,23,29,-6,True,False
+194,Ohio State Buckeyes,2020,NEB,home,False,52,17,35,False,True
+194,Ohio State Buckeyes,2020,PSU,away,False,38,25,13,False,True
+194,Ohio State Buckeyes,2020,RUTG,home,False,49,27,22,False,True
+194,Ohio State Buckeyes,2020,IU,home,False,42,35,7,True,True
+194,Ohio State Buckeyes,2020,MSU,away,False,52,12,40,False,True
+194,Ohio State Buckeyes,2020,NW,home,True,22,10,12,False,True
+194,Ohio State Buckeyes,2020,CLEM,away,True,49,28,21,False,True
+194,Ohio State Buckeyes,2020,ALA,away,True,24,52,-28,False,False
+194,Ohio State Buckeyes,2021,MINN,away,False,45,31,14,False,True
+194,Ohio State Buckeyes,2021,ORE,home,False,28,35,-7,True,False
+194,Ohio State Buckeyes,2021,TLSA,home,False,41,20,21,False,True
+194,Ohio State Buckeyes,2021,AKR,home,False,59,7,52,False,True
+194,Ohio State Buckeyes,2021,RUTG,away,False,52,13,39,False,True
+194,Ohio State Buckeyes,2021,MD,home,False,66,17,49,False,True
+194,Ohio State Buckeyes,2021,IU,away,False,54,7,47,False,True
+194,Ohio State Buckeyes,2021,PSU,home,False,33,24,9,False,True
+194,Ohio State Buckeyes,2021,NEB,away,False,26,17,9,False,True
+194,Ohio State Buckeyes,2021,PUR,home,False,59,31,28,False,True
+194,Ohio State Buckeyes,2021,MSU,home,False,56,7,49,False,True
+194,Ohio State Buckeyes,2021,MICH,away,False,27,42,-15,False,False
+194,Ohio State Buckeyes,2021,UTAH,home,True,48,45,3,True,True
+194,Ohio State Buckeyes,2022,ND,home,False,21,10,11,False,True
+194,Ohio State Buckeyes,2022,ARST,home,False,45,12,33,False,True
+194,Ohio State Buckeyes,2022,TOL,home,False,77,21,56,False,True
+194,Ohio State Buckeyes,2022,WISC,home,False,52,21,31,False,True
+194,Ohio State Buckeyes,2022,RUTG,home,False,49,10,39,False,True
+194,Ohio State Buckeyes,2022,MSU,away,False,49,20,29,False,True
+194,Ohio State Buckeyes,2022,IOWA,home,False,54,10,44,False,True
+194,Ohio State Buckeyes,2022,PSU,away,False,44,31,13,False,True
+194,Ohio State Buckeyes,2022,NU,away,False,21,7,14,False,True
+194,Ohio State Buckeyes,2022,IU,home,False,56,14,42,False,True
+194,Ohio State Buckeyes,2022,MD,away,False,43,30,13,False,True
+194,Ohio State Buckeyes,2022,MICH,home,False,23,45,-22,False,False
+194,Ohio State Buckeyes,2022,UGA,away,True,41,42,-1,True,False
+194,Ohio State Buckeyes,2023,IU,away,False,23,3,20,False,True
+194,Ohio State Buckeyes,2023,YSU,home,False,35,7,28,False,True
+194,Ohio State Buckeyes,2023,WKU,home,False,63,10,53,False,True
+194,Ohio State Buckeyes,2023,ND,away,False,17,14,3,True,True
+194,Ohio State Buckeyes,2023,MD,home,False,37,17,20,False,True
+194,Ohio State Buckeyes,2023,PUR,away,False,41,7,34,False,True
+194,Ohio State Buckeyes,2023,PSU,home,False,20,12,8,True,True
+194,Ohio State Buckeyes,2023,WIS,away,False,24,10,14,False,True
+194,Ohio State Buckeyes,2023,RUTG,away,False,35,16,19,False,True
+194,Ohio State Buckeyes,2023,MSU,home,False,38,3,35,False,True
+194,Ohio State Buckeyes,2023,MINN,home,False,37,3,34,False,True
+194,Ohio State Buckeyes,2023,MICH,away,False,24,30,-6,True,False
+194,Ohio State Buckeyes,2023,MIZ,home,True,3,14,-11,False,False
+194,Ohio State Buckeyes,2024,AKR,home,False,52,6,46,False,True
+194,Ohio State Buckeyes,2024,WMU,home,False,56,0,56,False,True
+194,Ohio State Buckeyes,2024,MRSH,home,False,49,14,35,False,True
+194,Ohio State Buckeyes,2024,MSU,away,False,38,7,31,False,True
+194,Ohio State Buckeyes,2024,IOWA,home,False,35,7,28,False,True
+194,Ohio State Buckeyes,2024,ORE,away,False,31,32,-1,True,False
+194,Ohio State Buckeyes,2024,NEB,home,False,21,17,4,True,True
+194,Ohio State Buckeyes,2024,PSU,away,False,20,13,7,True,True
+194,Ohio State Buckeyes,2024,PUR,home,False,45,0,45,False,True
+194,Ohio State Buckeyes,2024,NU,away,False,31,7,24,False,True
+194,Ohio State Buckeyes,2024,IU,home,False,38,15,23,False,True
+194,Ohio State Buckeyes,2024,MICH,home,False,10,13,-3,True,False
+194,Ohio State Buckeyes,2024,TENN,home,False,42,17,25,False,True
+194,Ohio State Buckeyes,2024,ORE,away,True,41,21,20,False,True
+194,Ohio State Buckeyes,2024,TEX,away,True,28,14,14,False,True
+194,Ohio State Buckeyes,2024,ND,away,True,34,23,11,False,True
+194,Ohio State Buckeyes,2025,TEX,home,False,14,7,7,True,True
+194,Ohio State Buckeyes,2025,GRAM,home,False,70,0,70,False,True
+194,Ohio State Buckeyes,2025,OHIO,home,False,37,9,28,False,True
+194,Ohio State Buckeyes,2025,WASH,away,False,24,6,18,False,True
+194,Ohio State Buckeyes,2025,MINN,home,False,42,3,39,False,True
+194,Ohio State Buckeyes,2025,ILL,away,False,34,16,18,False,True
+194,Ohio State Buckeyes,2025,WIS,away,False,34,0,34,False,True
+194,Ohio State Buckeyes,2025,PSU,home,False,38,14,24,False,True
+194,Ohio State Buckeyes,2025,PUR,away,False,34,10,24,False,True
+194,Ohio State Buckeyes,2025,UCLA,home,False,48,10,38,False,True
+194,Ohio State Buckeyes,2025,RUTG,home,False,42,9,33,False,True
+194,Ohio State Buckeyes,2025,MICH,away,False,27,9,18,False,True
+194,Ohio State Buckeyes,2025,IU,home,True,10,13,-3,True,False
+194,Ohio State Buckeyes,2025,MIA,home,True,14,24,-10,False,False
+213,Penn State Nittany Lions,2016,KENT,home,False,33,13,20,False,True
+213,Penn State Nittany Lions,2016,PITT,away,False,39,42,-3,True,False
+213,Penn State Nittany Lions,2016,TEM,home,False,34,27,7,True,True
+213,Penn State Nittany Lions,2016,MICH,away,False,10,49,-39,False,False
+213,Penn State Nittany Lions,2016,MINN,home,False,29,26,3,True,True
+213,Penn State Nittany Lions,2016,MD,home,False,38,14,24,False,True
+213,Penn State Nittany Lions,2016,OSU,home,False,24,21,3,True,True
+213,Penn State Nittany Lions,2016,PUR,away,False,62,24,38,False,True
+213,Penn State Nittany Lions,2016,IOWA,home,False,41,14,27,False,True
+213,Penn State Nittany Lions,2016,IND,away,False,45,31,14,False,True
+213,Penn State Nittany Lions,2016,RUTG,away,False,39,0,39,False,True
+213,Penn State Nittany Lions,2016,MSU,home,False,45,12,33,False,True
+213,Penn State Nittany Lions,2016,WIS,home,True,38,31,7,True,True
+213,Penn State Nittany Lions,2016,USC,home,True,49,52,-3,True,False
+213,Penn State Nittany Lions,2017,AKR,home,False,52,0,52,False,True
+213,Penn State Nittany Lions,2017,PITT,home,False,33,14,19,False,True
+213,Penn State Nittany Lions,2017,GAST,home,False,56,0,56,False,True
+213,Penn State Nittany Lions,2017,IOWA,away,False,21,19,2,True,True
+213,Penn State Nittany Lions,2017,IND,home,False,45,14,31,False,True
+213,Penn State Nittany Lions,2017,NW,away,False,31,7,24,False,True
+213,Penn State Nittany Lions,2017,MICH,home,False,42,13,29,False,True
+213,Penn State Nittany Lions,2017,OSU,away,False,38,39,-1,True,False
+213,Penn State Nittany Lions,2017,MSU,away,False,24,27,-3,True,False
+213,Penn State Nittany Lions,2017,RUTG,home,False,35,6,29,False,True
+213,Penn State Nittany Lions,2017,NEB,home,False,56,44,12,False,True
+213,Penn State Nittany Lions,2017,MD,away,False,66,3,63,False,True
+213,Penn State Nittany Lions,2017,WASH,home,True,35,28,7,True,True
+213,Penn State Nittany Lions,2018,APP,home,False,45,38,7,True,True
+213,Penn State Nittany Lions,2018,PITT,away,False,51,6,45,False,True
+213,Penn State Nittany Lions,2018,KENT,home,False,63,10,53,False,True
+213,Penn State Nittany Lions,2018,ILL,away,False,63,24,39,False,True
+213,Penn State Nittany Lions,2018,OSU,home,False,26,27,-1,True,False
+213,Penn State Nittany Lions,2018,MSU,home,False,17,21,-4,True,False
+213,Penn State Nittany Lions,2018,IND,away,False,33,28,5,True,True
+213,Penn State Nittany Lions,2018,IOWA,home,False,30,24,6,True,True
+213,Penn State Nittany Lions,2018,MICH,away,False,7,42,-35,False,False
+213,Penn State Nittany Lions,2018,WIS,home,False,22,10,12,False,True
+213,Penn State Nittany Lions,2018,RUTG,away,False,20,7,13,False,True
+213,Penn State Nittany Lions,2018,MD,home,False,38,3,35,False,True
+213,Penn State Nittany Lions,2018,UK,home,True,24,27,-3,True,False
+213,Penn State Nittany Lions,2019,IDHO,home,False,79,7,72,False,True
+213,Penn State Nittany Lions,2019,BUFF,home,False,45,13,32,False,True
+213,Penn State Nittany Lions,2019,PITT,home,False,17,10,7,True,True
+213,Penn State Nittany Lions,2019,MD,away,False,59,0,59,False,True
+213,Penn State Nittany Lions,2019,PUR,home,False,35,7,28,False,True
+213,Penn State Nittany Lions,2019,IOWA,away,False,17,12,5,True,True
+213,Penn State Nittany Lions,2019,MICH,home,False,28,21,7,True,True
+213,Penn State Nittany Lions,2019,MSU,away,False,28,7,21,False,True
+213,Penn State Nittany Lions,2019,MINN,away,False,26,31,-5,True,False
+213,Penn State Nittany Lions,2019,IND,home,False,34,27,7,True,True
+213,Penn State Nittany Lions,2019,OSU,away,False,17,28,-11,False,False
+213,Penn State Nittany Lions,2019,RUTG,home,False,27,6,21,False,True
+213,Penn State Nittany Lions,2019,MEM,home,True,53,39,14,False,True
+213,Penn State Nittany Lions,2020,IU,away,False,35,36,-1,True,False
+213,Penn State Nittany Lions,2020,OSU,home,False,25,38,-13,False,False
+213,Penn State Nittany Lions,2020,MD,home,False,19,35,-16,False,False
+213,Penn State Nittany Lions,2020,NEB,away,False,23,30,-7,True,False
+213,Penn State Nittany Lions,2020,IOWA,home,False,21,41,-20,False,False
+213,Penn State Nittany Lions,2020,MICH,away,False,27,17,10,False,True
+213,Penn State Nittany Lions,2020,RUTG,away,False,23,7,16,False,True
+213,Penn State Nittany Lions,2020,MSU,home,False,39,24,15,False,True
+213,Penn State Nittany Lions,2020,ILL,home,False,56,21,35,False,True
+213,Penn State Nittany Lions,2021,WISC,away,False,16,10,6,True,True
+213,Penn State Nittany Lions,2021,BALL,home,False,44,13,31,False,True
+213,Penn State Nittany Lions,2021,AUB,home,False,28,20,8,True,True
+213,Penn State Nittany Lions,2021,VILL,home,False,38,17,21,False,True
+213,Penn State Nittany Lions,2021,IU,home,False,24,0,24,False,True
+213,Penn State Nittany Lions,2021,IOWA,away,False,20,23,-3,True,False
+213,Penn State Nittany Lions,2021,ILL,home,False,18,20,-2,True,False
+213,Penn State Nittany Lions,2021,OSU,away,False,24,33,-9,False,False
+213,Penn State Nittany Lions,2021,MD,away,False,31,14,17,False,True
+213,Penn State Nittany Lions,2021,MICH,home,False,17,21,-4,True,False
+213,Penn State Nittany Lions,2021,RUTG,home,False,28,0,28,False,True
+213,Penn State Nittany Lions,2021,MSU,away,False,27,30,-3,True,False
+213,Penn State Nittany Lions,2021,ARK,away,True,10,24,-14,False,False
+213,Penn State Nittany Lions,2022,PUR,away,False,35,31,4,True,True
+213,Penn State Nittany Lions,2022,OHIO,home,False,46,10,36,False,True
+213,Penn State Nittany Lions,2022,AUB,away,False,41,12,29,False,True
+213,Penn State Nittany Lions,2022,CMU,home,False,33,14,19,False,True
+213,Penn State Nittany Lions,2022,NU,home,False,17,7,10,False,True
+213,Penn State Nittany Lions,2022,MICH,away,False,17,41,-24,False,False
+213,Penn State Nittany Lions,2022,MINN,home,False,45,17,28,False,True
+213,Penn State Nittany Lions,2022,OSU,home,False,31,44,-13,False,False
+213,Penn State Nittany Lions,2022,IU,away,False,45,14,31,False,True
+213,Penn State Nittany Lions,2022,MD,home,False,30,0,30,False,True
+213,Penn State Nittany Lions,2022,RUTG,away,False,55,10,45,False,True
+213,Penn State Nittany Lions,2022,MSU,home,False,35,16,19,False,True
+213,Penn State Nittany Lions,2022,UTAH,away,True,35,21,14,False,True
+213,Penn State Nittany Lions,2023,WVU,home,False,38,15,23,False,True
+213,Penn State Nittany Lions,2023,DEL,home,False,63,7,56,False,True
+213,Penn State Nittany Lions,2023,ILL,away,False,30,13,17,False,True
+213,Penn State Nittany Lions,2023,IOWA,home,False,31,0,31,False,True
+213,Penn State Nittany Lions,2023,NU,away,False,41,13,28,False,True
+213,Penn State Nittany Lions,2023,MASS,home,False,63,0,63,False,True
+213,Penn State Nittany Lions,2023,OSU,away,False,12,20,-8,True,False
+213,Penn State Nittany Lions,2023,IU,home,False,33,24,9,False,True
+213,Penn State Nittany Lions,2023,MD,away,False,51,15,36,False,True
+213,Penn State Nittany Lions,2023,MICH,home,False,15,24,-9,False,False
+213,Penn State Nittany Lions,2023,RUTG,home,False,27,6,21,False,True
+213,Penn State Nittany Lions,2023,MSU,away,False,42,0,42,False,True
+213,Penn State Nittany Lions,2023,MISS,home,True,25,38,-13,False,False
+213,Penn State Nittany Lions,2024,WVU,away,False,34,12,22,False,True
+213,Penn State Nittany Lions,2024,BGSU,home,False,34,27,7,True,True
+213,Penn State Nittany Lions,2024,KENT,home,False,56,0,56,False,True
+213,Penn State Nittany Lions,2024,ILL,home,False,21,7,14,False,True
+213,Penn State Nittany Lions,2024,UCLA,home,False,27,11,16,False,True
+213,Penn State Nittany Lions,2024,USC,away,False,33,30,3,True,True
+213,Penn State Nittany Lions,2024,WIS,away,False,28,13,15,False,True
+213,Penn State Nittany Lions,2024,OSU,home,False,13,20,-7,True,False
+213,Penn State Nittany Lions,2024,WASH,home,False,35,6,29,False,True
+213,Penn State Nittany Lions,2024,PUR,away,False,49,10,39,False,True
+213,Penn State Nittany Lions,2024,MINN,away,False,26,25,1,True,True
+213,Penn State Nittany Lions,2024,MD,home,False,44,7,37,False,True
+213,Penn State Nittany Lions,2024,ORE,away,True,37,45,-8,True,False
+213,Penn State Nittany Lions,2024,SMU,home,False,38,10,28,False,True
+213,Penn State Nittany Lions,2024,BOIS,away,True,31,14,17,False,True
+213,Penn State Nittany Lions,2024,ND,home,True,24,27,-3,True,False
+213,Penn State Nittany Lions,2025,NEV,home,False,46,11,35,False,True
+213,Penn State Nittany Lions,2025,FIU,home,False,34,0,34,False,True
+213,Penn State Nittany Lions,2025,VILL,home,False,52,6,46,False,True
+213,Penn State Nittany Lions,2025,ORE,home,False,24,30,-6,True,False
+213,Penn State Nittany Lions,2025,UCLA,away,False,37,42,-5,True,False
+213,Penn State Nittany Lions,2025,NU,home,False,21,22,-1,True,False
+213,Penn State Nittany Lions,2025,IOWA,away,False,24,25,-1,True,False
+213,Penn State Nittany Lions,2025,OSU,away,False,14,38,-24,False,False
+213,Penn State Nittany Lions,2025,IU,home,False,24,27,-3,True,False
+213,Penn State Nittany Lions,2025,MSU,away,False,28,10,18,False,True
+213,Penn State Nittany Lions,2025,NEB,home,False,37,10,27,False,True
+213,Penn State Nittany Lions,2025,RUTG,away,False,40,36,4,True,True
+213,Penn State Nittany Lions,2025,CLEM,away,True,22,10,12,False,True
+228,Clemson Tigers,2016,AUB,away,False,19,13,6,True,True
+228,Clemson Tigers,2016,TROY,home,False,30,24,6,True,True
+228,Clemson Tigers,2016,SCST,home,False,59,0,59,False,True
+228,Clemson Tigers,2016,GT,away,False,26,7,19,False,True
+228,Clemson Tigers,2016,LOU,home,False,42,36,6,True,True
+228,Clemson Tigers,2016,BC,away,False,56,10,46,False,True
+228,Clemson Tigers,2016,NCST,home,False,24,17,7,True,True
+228,Clemson Tigers,2016,FSU,away,False,37,34,3,True,True
+228,Clemson Tigers,2016,SYR,home,False,54,0,54,False,True
+228,Clemson Tigers,2016,PITT,home,False,42,43,-1,True,False
+228,Clemson Tigers,2016,WAKE,away,False,35,13,22,False,True
+228,Clemson Tigers,2016,SC,home,False,56,7,49,False,True
+228,Clemson Tigers,2016,VT,away,True,42,35,7,True,True
+228,Clemson Tigers,2016,OSU,home,True,31,0,31,False,True
+228,Clemson Tigers,2016,ALA,away,True,35,31,4,True,True
+228,Clemson Tigers,2017,KENT,home,False,56,3,53,False,True
+228,Clemson Tigers,2017,AUB,home,False,14,6,8,True,True
+228,Clemson Tigers,2017,LOU,away,False,47,21,26,False,True
+228,Clemson Tigers,2017,BC,home,False,34,7,27,False,True
+228,Clemson Tigers,2017,VT,away,False,31,17,14,False,True
+228,Clemson Tigers,2017,WAKE,home,False,28,14,14,False,True
+228,Clemson Tigers,2017,SYR,away,False,24,27,-3,True,False
+228,Clemson Tigers,2017,GT,home,False,24,10,14,False,True
+228,Clemson Tigers,2017,NCST,away,False,38,31,7,True,True
+228,Clemson Tigers,2017,FSU,home,False,31,14,17,False,True
+228,Clemson Tigers,2017,CIT,home,False,61,3,58,False,True
+228,Clemson Tigers,2017,SC,away,False,34,10,24,False,True
+228,Clemson Tigers,2017,MIAMI,home,True,38,3,35,False,True
+228,Clemson Tigers,2017,ALA,home,True,6,24,-18,False,False
+228,Clemson Tigers,2018,FUR,home,False,48,7,41,False,True
+228,Clemson Tigers,2018,TA&M,away,False,28,26,2,True,True
+228,Clemson Tigers,2018,GASO,home,False,38,7,31,False,True
+228,Clemson Tigers,2018,GT,away,False,49,21,28,False,True
+228,Clemson Tigers,2018,SYR,home,False,27,23,4,True,True
+228,Clemson Tigers,2018,WAKE,away,False,63,3,60,False,True
+228,Clemson Tigers,2018,NCST,home,False,41,7,34,False,True
+228,Clemson Tigers,2018,FSU,away,False,59,10,49,False,True
+228,Clemson Tigers,2018,LOU,home,False,77,16,61,False,True
+228,Clemson Tigers,2018,BC,away,False,27,7,20,False,True
+228,Clemson Tigers,2018,DUKE,home,False,35,6,29,False,True
+228,Clemson Tigers,2018,SC,home,False,56,35,21,False,True
+228,Clemson Tigers,2018,PITT,away,True,42,10,32,False,True
+228,Clemson Tigers,2018,ND,home,True,30,3,27,False,True
+228,Clemson Tigers,2018,ALA,away,True,44,16,28,False,True
+228,Clemson Tigers,2019,GT,home,False,52,14,38,False,True
+228,Clemson Tigers,2019,TA&M,home,False,24,10,14,False,True
+228,Clemson Tigers,2019,SYR,away,False,41,6,35,False,True
+228,Clemson Tigers,2019,CLT,home,False,52,10,42,False,True
+228,Clemson Tigers,2019,UNC,away,False,21,20,1,True,True
+228,Clemson Tigers,2019,FSU,home,False,45,14,31,False,True
+228,Clemson Tigers,2019,LOU,away,False,45,10,35,False,True
+228,Clemson Tigers,2019,BC,home,False,59,7,52,False,True
+228,Clemson Tigers,2019,WOF,home,False,59,14,45,False,True
+228,Clemson Tigers,2019,NCST,away,False,55,10,45,False,True
+228,Clemson Tigers,2019,WAKE,home,False,52,3,49,False,True
+228,Clemson Tigers,2019,SC,away,False,38,3,35,False,True
+228,Clemson Tigers,2019,UVA,home,True,62,17,45,False,True
+228,Clemson Tigers,2019,OSU,away,True,29,23,6,True,True
+228,Clemson Tigers,2019,LSU,away,True,25,42,-17,False,False
+228,Clemson Tigers,2020,WAKE,away,False,37,13,24,False,True
+228,Clemson Tigers,2020,CIT,home,False,49,0,49,False,True
+228,Clemson Tigers,2020,UVA,home,False,41,23,18,False,True
+228,Clemson Tigers,2020,MIAMI,home,False,42,17,25,False,True
+228,Clemson Tigers,2020,GT,away,False,73,7,66,False,True
+228,Clemson Tigers,2020,SYR,home,False,47,21,26,False,True
+228,Clemson Tigers,2020,BC,home,False,34,28,6,True,True
+228,Clemson Tigers,2020,ND,away,False,40,47,-7,True,False
+228,Clemson Tigers,2020,PITT,home,False,52,17,35,False,True
+228,Clemson Tigers,2020,VT,away,False,45,10,35,False,True
+228,Clemson Tigers,2020,ND,away,True,34,10,24,False,True
+228,Clemson Tigers,2020,OSU,home,True,28,49,-21,False,False
+228,Clemson Tigers,2021,UGA,home,True,3,10,-7,True,False
+228,Clemson Tigers,2021,SCST,home,False,49,3,46,False,True
+228,Clemson Tigers,2021,GT,home,False,14,8,6,True,True
+228,Clemson Tigers,2021,NCST,away,False,21,27,-6,True,False
+228,Clemson Tigers,2021,BC,home,False,19,13,6,True,True
+228,Clemson Tigers,2021,SYR,away,False,17,14,3,True,True
+228,Clemson Tigers,2021,PITT,away,False,17,27,-10,False,False
+228,Clemson Tigers,2021,FSU,home,False,30,20,10,False,True
+228,Clemson Tigers,2021,LOU,away,False,30,24,6,True,True
+228,Clemson Tigers,2021,CONN,home,False,44,7,37,False,True
+228,Clemson Tigers,2021,WAKE,home,False,48,27,21,False,True
+228,Clemson Tigers,2021,SC,away,False,30,0,30,False,True
+228,Clemson Tigers,2021,ISU,away,True,20,13,7,True,True
+228,Clemson Tigers,2022,GT,away,False,41,10,31,False,True
+228,Clemson Tigers,2022,FUR,home,False,35,12,23,False,True
+228,Clemson Tigers,2022,LT,home,False,48,20,28,False,True
+228,Clemson Tigers,2022,WAKE,away,False,51,45,6,True,True
+228,Clemson Tigers,2022,NCST,home,False,30,20,10,False,True
+228,Clemson Tigers,2022,BC,away,False,31,3,28,False,True
+228,Clemson Tigers,2022,FSU,away,False,34,28,6,True,True
+228,Clemson Tigers,2022,SYR,home,False,27,21,6,True,True
+228,Clemson Tigers,2022,ND,away,False,14,35,-21,False,False
+228,Clemson Tigers,2022,LOU,home,False,31,16,15,False,True
+228,Clemson Tigers,2022,MIA,home,False,40,10,30,False,True
+228,Clemson Tigers,2022,SC,home,False,30,31,-1,True,False
+228,Clemson Tigers,2022,UNC,away,True,39,10,29,False,True
+228,Clemson Tigers,2022,TENN,home,True,14,31,-17,False,False
+228,Clemson Tigers,2023,DUKE,away,False,7,28,-21,False,False
+228,Clemson Tigers,2023,CHSO,home,False,66,17,49,False,True
+228,Clemson Tigers,2023,FAU,home,False,48,14,34,False,True
+228,Clemson Tigers,2023,FSU,home,False,24,31,-7,True,False
+228,Clemson Tigers,2023,SYR,away,False,31,14,17,False,True
+228,Clemson Tigers,2023,WAKE,home,False,17,12,5,True,True
+228,Clemson Tigers,2023,MIA,away,False,20,28,-8,True,False
+228,Clemson Tigers,2023,NCSU,away,False,17,24,-7,True,False
+228,Clemson Tigers,2023,ND,home,False,31,23,8,True,True
+228,Clemson Tigers,2023,GT,home,False,42,21,21,False,True
+228,Clemson Tigers,2023,UNC,home,False,31,20,11,False,True
+228,Clemson Tigers,2023,SC,away,False,16,7,9,False,True
+228,Clemson Tigers,2023,UK,away,True,38,35,3,True,True
+228,Clemson Tigers,2024,UGA,away,True,3,34,-31,False,False
+228,Clemson Tigers,2024,APP,home,False,66,20,46,False,True
+228,Clemson Tigers,2024,NCSU,home,False,59,35,24,False,True
+228,Clemson Tigers,2024,STAN,home,False,40,14,26,False,True
+228,Clemson Tigers,2024,FSU,away,False,29,13,16,False,True
+228,Clemson Tigers,2024,WAKE,away,False,49,14,35,False,True
+228,Clemson Tigers,2024,UVA,home,False,48,31,17,False,True
+228,Clemson Tigers,2024,LOU,home,False,21,33,-12,False,False
+228,Clemson Tigers,2024,VT,away,False,24,14,10,False,True
+228,Clemson Tigers,2024,PITT,away,False,24,20,4,True,True
+228,Clemson Tigers,2024,CIT,home,False,51,14,37,False,True
+228,Clemson Tigers,2024,SC,home,False,14,17,-3,True,False
+228,Clemson Tigers,2024,SMU,away,True,34,31,3,True,True
+228,Clemson Tigers,2024,TEX,away,False,24,38,-14,False,False
+228,Clemson Tigers,2025,LSU,home,False,10,17,-7,True,False
+228,Clemson Tigers,2025,TROY,home,False,27,16,11,False,True
+228,Clemson Tigers,2025,GT,away,False,21,24,-3,True,False
+228,Clemson Tigers,2025,SYR,home,False,21,34,-13,False,False
+228,Clemson Tigers,2025,UNC,away,False,38,10,28,False,True
+228,Clemson Tigers,2025,BC,away,False,41,10,31,False,True
+228,Clemson Tigers,2025,SMU,home,False,24,35,-11,False,False
+228,Clemson Tigers,2025,DUKE,home,False,45,46,-1,True,False
+228,Clemson Tigers,2025,FSU,home,False,24,10,14,False,True
+228,Clemson Tigers,2025,LOU,away,False,20,19,1,True,True
+228,Clemson Tigers,2025,FUR,home,False,45,10,35,False,True
+228,Clemson Tigers,2025,SC,away,False,28,14,14,False,True
+228,Clemson Tigers,2025,PSU,home,True,10,22,-12,False,False
+333,Alabama Crimson Tide,2016,USC,home,True,52,6,46,False,True
+333,Alabama Crimson Tide,2016,WKU,home,False,38,10,28,False,True
+333,Alabama Crimson Tide,2016,MISS,away,False,48,43,5,True,True
+333,Alabama Crimson Tide,2016,KENT,home,False,48,0,48,False,True
+333,Alabama Crimson Tide,2016,UK,home,False,34,6,28,False,True
+333,Alabama Crimson Tide,2016,ARK,away,False,49,30,19,False,True
+333,Alabama Crimson Tide,2016,TENN,away,False,49,10,39,False,True
+333,Alabama Crimson Tide,2016,TA&M,home,False,33,14,19,False,True
+333,Alabama Crimson Tide,2016,LSU,away,False,10,0,10,False,True
+333,Alabama Crimson Tide,2016,MSST,home,False,51,3,48,False,True
+333,Alabama Crimson Tide,2016,CHAT,home,False,31,3,28,False,True
+333,Alabama Crimson Tide,2016,AUB,home,False,30,12,18,False,True
+333,Alabama Crimson Tide,2016,FLA,away,True,54,16,38,False,True
+333,Alabama Crimson Tide,2016,WASH,home,True,24,7,17,False,True
+333,Alabama Crimson Tide,2016,CLEM,home,True,31,35,-4,True,False
+333,Alabama Crimson Tide,2017,FSU,home,True,24,7,17,False,True
+333,Alabama Crimson Tide,2017,FRES,home,False,41,10,31,False,True
+333,Alabama Crimson Tide,2017,CSU,home,False,41,23,18,False,True
+333,Alabama Crimson Tide,2017,VAN,away,False,59,0,59,False,True
+333,Alabama Crimson Tide,2017,MISS,home,False,66,3,63,False,True
+333,Alabama Crimson Tide,2017,TA&M,away,False,27,19,8,True,True
+333,Alabama Crimson Tide,2017,ARK,home,False,41,9,32,False,True
+333,Alabama Crimson Tide,2017,TENN,home,False,45,7,38,False,True
+333,Alabama Crimson Tide,2017,LSU,home,False,24,10,14,False,True
+333,Alabama Crimson Tide,2017,MSST,away,False,31,24,7,True,True
+333,Alabama Crimson Tide,2017,MER,home,False,56,0,56,False,True
+333,Alabama Crimson Tide,2017,AUB,away,False,14,26,-12,False,False
+333,Alabama Crimson Tide,2017,CLEM,away,True,24,6,18,False,True
+333,Alabama Crimson Tide,2017,UGA,away,True,26,23,3,True,True
+333,Alabama Crimson Tide,2018,LOU,home,True,51,14,37,False,True
+333,Alabama Crimson Tide,2018,ARKST,home,False,57,7,50,False,True
+333,Alabama Crimson Tide,2018,MISS,away,False,62,7,55,False,True
+333,Alabama Crimson Tide,2018,TA&M,home,False,45,23,22,False,True
+333,Alabama Crimson Tide,2018,ULL,home,False,56,14,42,False,True
+333,Alabama Crimson Tide,2018,ARK,away,False,65,31,34,False,True
+333,Alabama Crimson Tide,2018,MIZ,home,False,39,10,29,False,True
+333,Alabama Crimson Tide,2018,TENN,away,False,58,21,37,False,True
+333,Alabama Crimson Tide,2018,LSU,away,False,29,0,29,False,True
+333,Alabama Crimson Tide,2018,MSST,home,False,24,0,24,False,True
+333,Alabama Crimson Tide,2018,CIT,home,False,50,17,33,False,True
+333,Alabama Crimson Tide,2018,AUB,home,False,52,21,31,False,True
+333,Alabama Crimson Tide,2018,UGA,away,True,35,28,7,True,True
+333,Alabama Crimson Tide,2018,OKLA,home,True,45,34,11,False,True
+333,Alabama Crimson Tide,2018,CLEM,home,True,16,44,-28,False,False
+333,Alabama Crimson Tide,2019,DUKE,home,True,42,3,39,False,True
+333,Alabama Crimson Tide,2019,NMSU,home,False,62,10,52,False,True
+333,Alabama Crimson Tide,2019,SC,away,False,47,23,24,False,True
+333,Alabama Crimson Tide,2019,USM,home,False,49,7,42,False,True
+333,Alabama Crimson Tide,2019,MISS,home,False,59,31,28,False,True
+333,Alabama Crimson Tide,2019,TA&M,away,False,47,28,19,False,True
+333,Alabama Crimson Tide,2019,TENN,home,False,35,13,22,False,True
+333,Alabama Crimson Tide,2019,ARK,home,False,48,7,41,False,True
+333,Alabama Crimson Tide,2019,LSU,home,False,41,46,-5,True,False
+333,Alabama Crimson Tide,2019,MSST,away,False,38,7,31,False,True
+333,Alabama Crimson Tide,2019,WCU,home,False,66,3,63,False,True
+333,Alabama Crimson Tide,2019,AUB,away,False,45,48,-3,True,False
+333,Alabama Crimson Tide,2019,MICH,home,True,35,16,19,False,True
+333,Alabama Crimson Tide,2020,MIZ,away,False,38,19,19,False,True
+333,Alabama Crimson Tide,2020,TA&M,home,False,52,24,28,False,True
+333,Alabama Crimson Tide,2020,MISS,away,False,63,48,15,False,True
+333,Alabama Crimson Tide,2020,UGA,home,False,41,24,17,False,True
+333,Alabama Crimson Tide,2020,TENN,away,False,48,17,31,False,True
+333,Alabama Crimson Tide,2020,MSST,home,False,41,0,41,False,True
+333,Alabama Crimson Tide,2020,UK,home,False,63,3,60,False,True
+333,Alabama Crimson Tide,2020,AUB,home,False,42,13,29,False,True
+333,Alabama Crimson Tide,2020,LSU,away,False,55,17,38,False,True
+333,Alabama Crimson Tide,2020,ARK,away,False,52,3,49,False,True
+333,Alabama Crimson Tide,2020,FLA,away,True,52,46,6,True,True
+333,Alabama Crimson Tide,2020,ND,home,True,31,14,17,False,True
+333,Alabama Crimson Tide,2020,OSU,home,True,52,24,28,False,True
+333,Alabama Crimson Tide,2021,MIA,away,True,44,13,31,False,True
+333,Alabama Crimson Tide,2021,MER,home,False,48,14,34,False,True
+333,Alabama Crimson Tide,2021,FLA,away,False,31,29,2,True,True
+333,Alabama Crimson Tide,2021,USM,home,False,63,14,49,False,True
+333,Alabama Crimson Tide,2021,MISS,home,False,42,21,21,False,True
+333,Alabama Crimson Tide,2021,TA&M,away,False,38,41,-3,True,False
+333,Alabama Crimson Tide,2021,MSST,away,False,49,9,40,False,True
+333,Alabama Crimson Tide,2021,TENN,home,False,52,24,28,False,True
+333,Alabama Crimson Tide,2021,LSU,home,False,20,14,6,True,True
+333,Alabama Crimson Tide,2021,NMSU,home,False,59,3,56,False,True
+333,Alabama Crimson Tide,2021,ARK,home,False,42,35,7,True,True
+333,Alabama Crimson Tide,2021,AUB,away,False,24,22,2,True,True
+333,Alabama Crimson Tide,2021,UGA,home,True,41,24,17,False,True
+333,Alabama Crimson Tide,2021,CIN,home,True,27,6,21,False,True
+333,Alabama Crimson Tide,2021,UGA,home,True,18,33,-15,False,False
+333,Alabama Crimson Tide,2022,USU,home,False,55,0,55,False,True
+333,Alabama Crimson Tide,2022,TEX,away,False,20,19,1,True,True
+333,Alabama Crimson Tide,2022,ULM,home,False,63,7,56,False,True
+333,Alabama Crimson Tide,2022,VAN,home,False,55,3,52,False,True
+333,Alabama Crimson Tide,2022,ARK,away,False,49,26,23,False,True
+333,Alabama Crimson Tide,2022,TA&M,home,False,24,20,4,True,True
+333,Alabama Crimson Tide,2022,TENN,away,False,49,52,-3,True,False
+333,Alabama Crimson Tide,2022,MSST,home,False,30,6,24,False,True
+333,Alabama Crimson Tide,2022,LSU,away,False,31,32,-1,True,False
+333,Alabama Crimson Tide,2022,MISS,away,False,30,24,6,True,True
+333,Alabama Crimson Tide,2022,APSU,home,False,34,0,34,False,True
+333,Alabama Crimson Tide,2022,AUB,home,False,49,27,22,False,True
+333,Alabama Crimson Tide,2022,KSU,away,True,45,20,25,False,True
+333,Alabama Crimson Tide,2023,MTSU,home,False,56,7,49,False,True
+333,Alabama Crimson Tide,2023,TEX,home,False,24,34,-10,False,False
+333,Alabama Crimson Tide,2023,USF,away,False,17,3,14,False,True
+333,Alabama Crimson Tide,2023,MISS,home,False,24,10,14,False,True
+333,Alabama Crimson Tide,2023,MSST,away,False,40,17,23,False,True
+333,Alabama Crimson Tide,2023,TA&M,away,False,26,20,6,True,True
+333,Alabama Crimson Tide,2023,ARK,home,False,24,21,3,True,True
+333,Alabama Crimson Tide,2023,TENN,home,False,34,20,14,False,True
+333,Alabama Crimson Tide,2023,LSU,home,False,42,28,14,False,True
+333,Alabama Crimson Tide,2023,UK,away,False,49,21,28,False,True
+333,Alabama Crimson Tide,2023,UTC,home,False,66,10,56,False,True
+333,Alabama Crimson Tide,2023,AUB,away,False,27,24,3,True,True
+333,Alabama Crimson Tide,2023,UGA,home,True,27,24,3,True,True
+333,Alabama Crimson Tide,2023,MICH,away,True,20,27,-7,True,False
+333,Alabama Crimson Tide,2024,WKU,home,False,63,0,63,False,True
+333,Alabama Crimson Tide,2024,USF,home,False,42,16,26,False,True
+333,Alabama Crimson Tide,2024,WIS,away,False,42,10,32,False,True
+333,Alabama Crimson Tide,2024,UGA,home,False,41,34,7,True,True
+333,Alabama Crimson Tide,2024,VAN,away,False,35,40,-5,True,False
+333,Alabama Crimson Tide,2024,SC,home,False,27,25,2,True,True
+333,Alabama Crimson Tide,2024,TENN,away,False,17,24,-7,True,False
+333,Alabama Crimson Tide,2024,MIZ,home,False,34,0,34,False,True
+333,Alabama Crimson Tide,2024,LSU,away,False,42,13,29,False,True
+333,Alabama Crimson Tide,2024,MER,home,False,52,7,45,False,True
+333,Alabama Crimson Tide,2024,OU,away,False,3,24,-21,False,False
+333,Alabama Crimson Tide,2024,AUB,home,False,28,14,14,False,True
+333,Alabama Crimson Tide,2024,MICH,away,True,13,19,-6,True,False
+333,Alabama Crimson Tide,2025,FSU,away,False,17,31,-14,False,False
+333,Alabama Crimson Tide,2025,ULM,home,False,73,0,73,False,True
+333,Alabama Crimson Tide,2025,WIS,home,False,38,14,24,False,True
+333,Alabama Crimson Tide,2025,UGA,away,False,24,21,3,True,True
+333,Alabama Crimson Tide,2025,VAN,home,False,30,14,16,False,True
+333,Alabama Crimson Tide,2025,MIZ,away,False,27,24,3,True,True
+333,Alabama Crimson Tide,2025,TENN,home,False,37,20,17,False,True
+333,Alabama Crimson Tide,2025,SC,away,False,29,22,7,True,True
+333,Alabama Crimson Tide,2025,LSU,home,False,20,9,11,False,True
+333,Alabama Crimson Tide,2025,OU,home,False,21,23,-2,True,False
+333,Alabama Crimson Tide,2025,EIU,home,False,56,0,56,False,True
+333,Alabama Crimson Tide,2025,AUB,away,False,27,20,7,True,True
+333,Alabama Crimson Tide,2025,UGA,home,True,7,28,-21,False,False
+333,Alabama Crimson Tide,2025,OU,away,False,34,24,10,False,True
+333,Alabama Crimson Tide,2025,IU,away,True,3,38,-35,False,False
+61,Georgia Bulldogs,2016,UNC,away,True,33,24,9,False,True
+61,Georgia Bulldogs,2016,NICH,home,False,26,24,2,True,True
+61,Georgia Bulldogs,2016,MIZ,away,False,28,27,1,True,True
+61,Georgia Bulldogs,2016,MISS,away,False,14,45,-31,False,False
+61,Georgia Bulldogs,2016,TENN,home,False,31,34,-3,True,False
+61,Georgia Bulldogs,2016,SC,away,False,28,14,14,False,True
+61,Georgia Bulldogs,2016,VAN,home,False,16,17,-1,True,False
+61,Georgia Bulldogs,2016,FLA,home,True,10,24,-14,False,False
+61,Georgia Bulldogs,2016,UK,away,False,27,24,3,True,True
+61,Georgia Bulldogs,2016,AUB,home,False,13,7,6,True,True
+61,Georgia Bulldogs,2016,ULL,home,False,35,21,14,False,True
+61,Georgia Bulldogs,2016,GT,home,False,27,28,-1,True,False
+61,Georgia Bulldogs,2016,TCU,away,True,31,23,8,True,True
+61,Georgia Bulldogs,2017,APP,home,False,31,10,21,False,True
+61,Georgia Bulldogs,2017,ND,away,False,20,19,1,True,True
+61,Georgia Bulldogs,2017,SAM,home,False,42,14,28,False,True
+61,Georgia Bulldogs,2017,MSST,home,False,31,3,28,False,True
+61,Georgia Bulldogs,2017,TENN,away,False,41,0,41,False,True
+61,Georgia Bulldogs,2017,VAN,away,False,45,14,31,False,True
+61,Georgia Bulldogs,2017,MIZ,home,False,53,28,25,False,True
+61,Georgia Bulldogs,2017,FLA,away,True,42,7,35,False,True
+61,Georgia Bulldogs,2017,SC,home,False,24,10,14,False,True
+61,Georgia Bulldogs,2017,AUB,away,False,17,40,-23,False,False
+61,Georgia Bulldogs,2017,UK,home,False,42,13,29,False,True
+61,Georgia Bulldogs,2017,GT,away,False,38,7,31,False,True
+61,Georgia Bulldogs,2017,AUB,away,True,28,7,21,False,True
+61,Georgia Bulldogs,2017,OKLA,away,True,54,48,6,True,True
+61,Georgia Bulldogs,2017,ALA,home,True,23,26,-3,True,False
+61,Georgia Bulldogs,2018,PEAY,home,False,45,0,45,False,True
+61,Georgia Bulldogs,2018,SC,away,False,41,17,24,False,True
+61,Georgia Bulldogs,2018,MTSU,home,False,49,7,42,False,True
+61,Georgia Bulldogs,2018,MIZ,away,False,43,29,14,False,True
+61,Georgia Bulldogs,2018,TENN,home,False,38,12,26,False,True
+61,Georgia Bulldogs,2018,VAN,home,False,41,13,28,False,True
+61,Georgia Bulldogs,2018,LSU,away,False,16,36,-20,False,False
+61,Georgia Bulldogs,2018,FLA,home,True,36,17,19,False,True
+61,Georgia Bulldogs,2018,UK,away,False,34,17,17,False,True
+61,Georgia Bulldogs,2018,AUB,home,False,27,10,17,False,True
+61,Georgia Bulldogs,2018,UMASS,home,False,66,27,39,False,True
+61,Georgia Bulldogs,2018,GT,home,False,45,21,24,False,True
+61,Georgia Bulldogs,2018,ALA,home,True,28,35,-7,True,False
+61,Georgia Bulldogs,2018,TEX,home,True,21,28,-7,True,False
+61,Georgia Bulldogs,2019,VAN,away,False,30,6,24,False,True
+61,Georgia Bulldogs,2019,MURR,home,False,63,17,46,False,True
+61,Georgia Bulldogs,2019,ARST,home,False,55,0,55,False,True
+61,Georgia Bulldogs,2019,ND,home,False,23,17,6,True,True
+61,Georgia Bulldogs,2019,TENN,away,False,43,14,29,False,True
+61,Georgia Bulldogs,2019,SC,home,False,17,20,-3,True,False
+61,Georgia Bulldogs,2019,UK,home,False,21,0,21,False,True
+61,Georgia Bulldogs,2019,FLA,away,True,24,17,7,True,True
+61,Georgia Bulldogs,2019,MIZ,home,False,27,0,27,False,True
+61,Georgia Bulldogs,2019,AUB,away,False,21,14,7,True,True
+61,Georgia Bulldogs,2019,TA&M,home,False,19,13,6,True,True
+61,Georgia Bulldogs,2019,GT,away,False,52,7,45,False,True
+61,Georgia Bulldogs,2019,LSU,away,True,10,37,-27,False,False
+61,Georgia Bulldogs,2019,BAY,away,True,26,14,12,False,True
+61,Georgia Bulldogs,2020,ARK,away,False,37,10,27,False,True
+61,Georgia Bulldogs,2020,AUB,home,False,27,6,21,False,True
+61,Georgia Bulldogs,2020,TENN,home,False,44,21,23,False,True
+61,Georgia Bulldogs,2020,ALA,away,False,24,41,-17,False,False
+61,Georgia Bulldogs,2020,UK,away,False,14,3,11,False,True
+61,Georgia Bulldogs,2020,FLA,home,True,28,44,-16,False,False
+61,Georgia Bulldogs,2020,MSST,home,False,31,24,7,True,True
+61,Georgia Bulldogs,2020,SC,away,False,45,16,29,False,True
+61,Georgia Bulldogs,2020,MIZ,away,False,49,14,35,False,True
+61,Georgia Bulldogs,2020,CIN,away,True,24,21,3,True,True
+61,Georgia Bulldogs,2021,CLEM,away,True,10,3,7,True,True
+61,Georgia Bulldogs,2021,UAB,home,False,56,7,49,False,True
+61,Georgia Bulldogs,2021,SC,home,False,40,13,27,False,True
+61,Georgia Bulldogs,2021,VAN,away,False,62,0,62,False,True
+61,Georgia Bulldogs,2021,ARK,home,False,37,0,37,False,True
+61,Georgia Bulldogs,2021,AUB,away,False,34,10,24,False,True
+61,Georgia Bulldogs,2021,UK,home,False,30,13,17,False,True
+61,Georgia Bulldogs,2021,FLA,away,True,34,7,27,False,True
+61,Georgia Bulldogs,2021,MIZ,home,False,43,6,37,False,True
+61,Georgia Bulldogs,2021,TENN,away,False,41,17,24,False,True
+61,Georgia Bulldogs,2021,CHSO,home,False,56,7,49,False,True
+61,Georgia Bulldogs,2021,GT,away,False,45,0,45,False,True
+61,Georgia Bulldogs,2021,ALA,away,True,24,41,-17,False,False
+61,Georgia Bulldogs,2021,MICH,away,True,34,11,23,False,True
+61,Georgia Bulldogs,2021,ALA,away,True,33,18,15,False,True
+61,Georgia Bulldogs,2022,ORE,home,True,49,3,46,False,True
+61,Georgia Bulldogs,2022,SAM,home,False,33,0,33,False,True
+61,Georgia Bulldogs,2022,SC,away,False,48,7,41,False,True
+61,Georgia Bulldogs,2022,KENT,home,False,39,22,17,False,True
+61,Georgia Bulldogs,2022,MIZ,away,False,26,22,4,True,True
+61,Georgia Bulldogs,2022,AUB,home,False,42,10,32,False,True
+61,Georgia Bulldogs,2022,VAN,home,False,55,0,55,False,True
+61,Georgia Bulldogs,2022,FLA,home,True,42,20,22,False,True
+61,Georgia Bulldogs,2022,TENN,home,False,27,13,14,False,True
+61,Georgia Bulldogs,2022,MSST,away,False,45,19,26,False,True
+61,Georgia Bulldogs,2022,UK,away,False,16,6,10,False,True
+61,Georgia Bulldogs,2022,GT,home,False,37,14,23,False,True
+61,Georgia Bulldogs,2022,LSU,home,True,50,30,20,False,True
+61,Georgia Bulldogs,2022,OSU,home,True,42,41,1,True,True
+61,Georgia Bulldogs,2022,TCU,home,True,65,7,58,False,True
+61,Georgia Bulldogs,2023,UTM,home,False,48,7,41,False,True
+61,Georgia Bulldogs,2023,BALL,home,False,45,3,42,False,True
+61,Georgia Bulldogs,2023,SC,home,False,24,14,10,False,True
+61,Georgia Bulldogs,2023,UAB,home,False,49,21,28,False,True
+61,Georgia Bulldogs,2023,AUB,away,False,27,20,7,True,True
+61,Georgia Bulldogs,2023,UK,home,False,51,13,38,False,True
+61,Georgia Bulldogs,2023,VAN,away,False,37,20,17,False,True
+61,Georgia Bulldogs,2023,FLA,away,True,43,20,23,False,True
+61,Georgia Bulldogs,2023,MIZ,home,False,30,21,9,False,True
+61,Georgia Bulldogs,2023,MISS,home,False,52,17,35,False,True
+61,Georgia Bulldogs,2023,TENN,away,False,38,10,28,False,True
+61,Georgia Bulldogs,2023,GT,away,False,31,23,8,True,True
+61,Georgia Bulldogs,2023,ALA,away,True,24,27,-3,True,False
+61,Georgia Bulldogs,2023,FSU,away,True,63,3,60,False,True
+61,Georgia Bulldogs,2024,CLEM,home,True,34,3,31,False,True
+61,Georgia Bulldogs,2024,TNTC,home,False,48,3,45,False,True
+61,Georgia Bulldogs,2024,UK,away,False,13,12,1,True,True
+61,Georgia Bulldogs,2024,ALA,away,False,34,41,-7,True,False
+61,Georgia Bulldogs,2024,AUB,home,False,31,13,18,False,True
+61,Georgia Bulldogs,2024,MSST,home,False,41,31,10,False,True
+61,Georgia Bulldogs,2024,TEX,away,False,30,15,15,False,True
+61,Georgia Bulldogs,2024,FLA,home,True,34,20,14,False,True
+61,Georgia Bulldogs,2024,MISS,away,False,10,28,-18,False,False
+61,Georgia Bulldogs,2024,TENN,home,False,31,17,14,False,True
+61,Georgia Bulldogs,2024,MASS,home,False,59,21,38,False,True
+61,Georgia Bulldogs,2024,GT,home,False,44,42,2,True,True
+61,Georgia Bulldogs,2024,TEX,away,True,22,19,3,True,True
+61,Georgia Bulldogs,2024,ND,home,True,10,23,-13,False,False
+61,Georgia Bulldogs,2025,MRSH,home,False,45,7,38,False,True
+61,Georgia Bulldogs,2025,APSU,home,False,28,6,22,False,True
+61,Georgia Bulldogs,2025,TENN,away,False,44,41,3,True,True
+61,Georgia Bulldogs,2025,ALA,home,False,21,24,-3,True,False
+61,Georgia Bulldogs,2025,UK,home,False,35,14,21,False,True
+61,Georgia Bulldogs,2025,AUB,away,False,20,10,10,False,True
+61,Georgia Bulldogs,2025,MISS,home,False,43,35,8,True,True
+61,Georgia Bulldogs,2025,FLA,away,True,24,20,4,True,True
+61,Georgia Bulldogs,2025,MSST,away,False,41,21,20,False,True
+61,Georgia Bulldogs,2025,TEX,home,False,35,10,25,False,True
+61,Georgia Bulldogs,2025,CLT,home,False,35,3,32,False,True
+61,Georgia Bulldogs,2025,GT,away,True,16,9,7,True,True
+61,Georgia Bulldogs,2025,ALA,away,True,28,7,21,False,True
+61,Georgia Bulldogs,2025,MISS,home,True,34,39,-5,True,False
+87,Notre Dame Fighting Irish,2016,TEX,away,False,47,50,-3,True,False
+87,Notre Dame Fighting Irish,2016,NEV,home,False,39,10,29,False,True
+87,Notre Dame Fighting Irish,2016,MSU,home,False,28,36,-8,True,False
+87,Notre Dame Fighting Irish,2016,DUKE,home,False,35,38,-3,True,False
+87,Notre Dame Fighting Irish,2016,SYR,away,True,50,33,17,False,True
+87,Notre Dame Fighting Irish,2016,NCST,away,False,3,10,-7,True,False
+87,Notre Dame Fighting Irish,2016,STAN,home,False,10,17,-7,True,False
+87,Notre Dame Fighting Irish,2016,MIAMI,home,False,30,27,3,True,True
+87,Notre Dame Fighting Irish,2016,NAVY,away,True,27,28,-1,True,False
+87,Notre Dame Fighting Irish,2016,ARMY,home,True,44,6,38,False,True
+87,Notre Dame Fighting Irish,2016,VT,home,False,31,34,-3,True,False
+87,Notre Dame Fighting Irish,2016,USC,away,False,27,45,-18,False,False
+87,Notre Dame Fighting Irish,2017,TEM,home,False,49,16,33,False,True
+87,Notre Dame Fighting Irish,2017,UGA,home,False,19,20,-1,True,False
+87,Notre Dame Fighting Irish,2017,BC,away,False,49,20,29,False,True
+87,Notre Dame Fighting Irish,2017,MSU,away,False,38,18,20,False,True
+87,Notre Dame Fighting Irish,2017,M-OH,home,False,52,17,35,False,True
+87,Notre Dame Fighting Irish,2017,UNC,away,False,33,10,23,False,True
+87,Notre Dame Fighting Irish,2017,USC,home,False,49,14,35,False,True
+87,Notre Dame Fighting Irish,2017,NCST,home,False,35,14,21,False,True
+87,Notre Dame Fighting Irish,2017,WAKE,home,False,48,37,11,False,True
+87,Notre Dame Fighting Irish,2017,MIAMI,away,False,8,41,-33,False,False
+87,Notre Dame Fighting Irish,2017,NAVY,home,False,24,17,7,True,True
+87,Notre Dame Fighting Irish,2017,STAN,away,False,20,38,-18,False,False
+87,Notre Dame Fighting Irish,2017,LSU,away,True,21,17,4,True,True
+87,Notre Dame Fighting Irish,2018,MICH,home,False,24,17,7,True,True
+87,Notre Dame Fighting Irish,2018,BALL,home,False,24,16,8,True,True
+87,Notre Dame Fighting Irish,2018,VAN,home,False,22,17,5,True,True
+87,Notre Dame Fighting Irish,2018,WAKE,away,False,56,27,29,False,True
+87,Notre Dame Fighting Irish,2018,STAN,home,False,38,17,21,False,True
+87,Notre Dame Fighting Irish,2018,VT,away,False,45,23,22,False,True
+87,Notre Dame Fighting Irish,2018,PITT,home,False,19,14,5,True,True
+87,Notre Dame Fighting Irish,2018,NAVY,away,True,44,22,22,False,True
+87,Notre Dame Fighting Irish,2018,NW,away,False,31,21,10,False,True
+87,Notre Dame Fighting Irish,2018,FSU,home,False,42,13,29,False,True
+87,Notre Dame Fighting Irish,2018,SYR,home,True,36,3,33,False,True
+87,Notre Dame Fighting Irish,2018,USC,away,False,24,17,7,True,True
+87,Notre Dame Fighting Irish,2018,CLEM,away,True,3,30,-27,False,False
+87,Notre Dame Fighting Irish,2019,LOU,away,False,35,17,18,False,True
+87,Notre Dame Fighting Irish,2019,UNM,home,False,66,14,52,False,True
+87,Notre Dame Fighting Irish,2019,UGA,away,False,17,23,-6,True,False
+87,Notre Dame Fighting Irish,2019,UVA,home,False,35,20,15,False,True
+87,Notre Dame Fighting Irish,2019,BGSU,home,False,52,0,52,False,True
+87,Notre Dame Fighting Irish,2019,USC,home,False,30,27,3,True,True
+87,Notre Dame Fighting Irish,2019,MICH,away,False,14,45,-31,False,False
+87,Notre Dame Fighting Irish,2019,VT,home,False,21,20,1,True,True
+87,Notre Dame Fighting Irish,2019,DUKE,away,False,38,7,31,False,True
+87,Notre Dame Fighting Irish,2019,NAVY,home,False,52,20,32,False,True
+87,Notre Dame Fighting Irish,2019,BC,home,False,40,7,33,False,True
+87,Notre Dame Fighting Irish,2019,STAN,away,False,45,24,21,False,True
+87,Notre Dame Fighting Irish,2019,ISU,away,True,33,9,24,False,True
+87,Notre Dame Fighting Irish,2020,DUKE,home,False,27,13,14,False,True
+87,Notre Dame Fighting Irish,2020,USF,home,False,52,0,52,False,True
+87,Notre Dame Fighting Irish,2020,FSU,home,False,42,26,16,False,True
+87,Notre Dame Fighting Irish,2020,LOU,home,False,12,7,5,True,True
+87,Notre Dame Fighting Irish,2020,PITT,away,False,45,3,42,False,True
+87,Notre Dame Fighting Irish,2020,GT,away,False,31,13,18,False,True
+87,Notre Dame Fighting Irish,2020,CLEM,home,False,47,40,7,True,True
+87,Notre Dame Fighting Irish,2020,BC,away,False,45,31,14,False,True
+87,Notre Dame Fighting Irish,2020,UNC,away,False,31,17,14,False,True
+87,Notre Dame Fighting Irish,2020,SYR,home,False,45,21,24,False,True
+87,Notre Dame Fighting Irish,2020,CLEM,home,True,10,34,-24,False,False
+87,Notre Dame Fighting Irish,2020,ALA,away,True,14,31,-17,False,False
+87,Notre Dame Fighting Irish,2021,FSU,away,False,41,38,3,True,True
+87,Notre Dame Fighting Irish,2021,TOL,home,False,32,29,3,True,True
+87,Notre Dame Fighting Irish,2021,PUR,home,False,27,13,14,False,True
+87,Notre Dame Fighting Irish,2021,WISC,away,True,41,13,28,False,True
+87,Notre Dame Fighting Irish,2021,CIN,home,False,13,24,-11,False,False
+87,Notre Dame Fighting Irish,2021,VT,away,False,32,29,3,True,True
+87,Notre Dame Fighting Irish,2021,USC,home,False,31,16,15,False,True
+87,Notre Dame Fighting Irish,2021,UNC,home,False,44,34,10,False,True
+87,Notre Dame Fighting Irish,2021,NAVY,home,False,34,6,28,False,True
+87,Notre Dame Fighting Irish,2021,UVA,away,False,28,3,25,False,True
+87,Notre Dame Fighting Irish,2021,GT,home,False,55,0,55,False,True
+87,Notre Dame Fighting Irish,2021,STAN,away,False,45,14,31,False,True
+87,Notre Dame Fighting Irish,2021,OKST,home,True,35,37,-2,True,False
+87,Notre Dame Fighting Irish,2022,OSU,away,False,10,21,-11,False,False
+87,Notre Dame Fighting Irish,2022,MRSH,home,False,21,26,-5,True,False
+87,Notre Dame Fighting Irish,2022,CAL,home,False,24,17,7,True,True
+87,Notre Dame Fighting Irish,2022,UNC,away,False,45,32,13,False,True
+87,Notre Dame Fighting Irish,2022,BYU,home,True,28,20,8,True,True
+87,Notre Dame Fighting Irish,2022,STAN,home,False,14,16,-2,True,False
+87,Notre Dame Fighting Irish,2022,UNLV,home,False,44,21,23,False,True
+87,Notre Dame Fighting Irish,2022,SYR,away,False,41,24,17,False,True
+87,Notre Dame Fighting Irish,2022,CLEM,home,False,35,14,21,False,True
+87,Notre Dame Fighting Irish,2022,NAVY,away,True,35,32,3,True,True
+87,Notre Dame Fighting Irish,2022,BC,home,False,44,0,44,False,True
+87,Notre Dame Fighting Irish,2022,USC,away,False,27,38,-11,False,False
+87,Notre Dame Fighting Irish,2022,SC,away,True,45,38,7,True,True
+87,Notre Dame Fighting Irish,2023,NAVY,home,True,42,3,39,False,True
+87,Notre Dame Fighting Irish,2023,TNST,home,False,56,3,53,False,True
+87,Notre Dame Fighting Irish,2023,NCSU,away,False,45,24,21,False,True
+87,Notre Dame Fighting Irish,2023,CMU,home,False,41,17,24,False,True
+87,Notre Dame Fighting Irish,2023,OSU,home,False,14,17,-3,True,False
+87,Notre Dame Fighting Irish,2023,DUKE,away,False,21,14,7,True,True
+87,Notre Dame Fighting Irish,2023,LOU,away,False,20,33,-13,False,False
+87,Notre Dame Fighting Irish,2023,USC,home,False,48,20,28,False,True
+87,Notre Dame Fighting Irish,2023,PITT,home,False,58,7,51,False,True
+87,Notre Dame Fighting Irish,2023,CLEM,away,False,23,31,-8,True,False
+87,Notre Dame Fighting Irish,2023,WAKE,home,False,45,7,38,False,True
+87,Notre Dame Fighting Irish,2023,STAN,away,False,56,23,33,False,True
+87,Notre Dame Fighting Irish,2023,ORST,home,True,40,8,32,False,True
+87,Notre Dame Fighting Irish,2024,TA&M,away,False,23,13,10,False,True
+87,Notre Dame Fighting Irish,2024,NIU,home,False,14,16,-2,True,False
+87,Notre Dame Fighting Irish,2024,PUR,away,False,66,7,59,False,True
+87,Notre Dame Fighting Irish,2024,M-OH,home,False,28,3,25,False,True
+87,Notre Dame Fighting Irish,2024,LOU,home,False,31,24,7,True,True
+87,Notre Dame Fighting Irish,2024,STAN,home,False,49,7,42,False,True
+87,Notre Dame Fighting Irish,2024,GT,away,True,31,13,18,False,True
+87,Notre Dame Fighting Irish,2024,NAVY,away,True,51,14,37,False,True
+87,Notre Dame Fighting Irish,2024,FSU,home,False,52,3,49,False,True
+87,Notre Dame Fighting Irish,2024,UVA,home,False,35,14,21,False,True
+87,Notre Dame Fighting Irish,2024,ARMY,home,True,49,14,35,False,True
+87,Notre Dame Fighting Irish,2024,USC,away,False,49,35,14,False,True
+87,Notre Dame Fighting Irish,2024,IU,home,False,27,17,10,False,True
+87,Notre Dame Fighting Irish,2024,UGA,away,True,23,10,13,False,True
+87,Notre Dame Fighting Irish,2024,PSU,away,True,27,24,3,True,True
+87,Notre Dame Fighting Irish,2024,OSU,home,True,23,34,-11,False,False
+87,Notre Dame Fighting Irish,2025,MIA,away,False,24,27,-3,True,False
+87,Notre Dame Fighting Irish,2025,TA&M,home,False,40,41,-1,True,False
+87,Notre Dame Fighting Irish,2025,PUR,home,False,56,30,26,False,True
+87,Notre Dame Fighting Irish,2025,ARK,away,False,56,13,43,False,True
+87,Notre Dame Fighting Irish,2025,BOIS,home,False,28,7,21,False,True
+87,Notre Dame Fighting Irish,2025,NCSU,home,False,36,7,29,False,True
+87,Notre Dame Fighting Irish,2025,USC,home,False,34,24,10,False,True
+87,Notre Dame Fighting Irish,2025,BC,away,False,25,10,15,False,True
+87,Notre Dame Fighting Irish,2025,NAVY,home,False,49,10,39,False,True
+87,Notre Dame Fighting Irish,2025,PITT,away,False,37,15,22,False,True
+87,Notre Dame Fighting Irish,2025,SYR,home,False,70,7,63,False,True
+87,Notre Dame Fighting Irish,2025,STAN,away,False,49,20,29,False,True
