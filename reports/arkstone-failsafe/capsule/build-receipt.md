@@ -1,8 +1,8 @@
 # Build receipt
-- **Date:** 2026-11-01T11:35:43
+- **Date:** 2026-11-15T11:40:17
 - **Files packed:** 25 (skipped: 0)
-- **Chunks:** 297 | backend: opencv | codec: mp4v
-- **Capsule size:** 4.91 MB video + 0.33 MB index
+- **Chunks:** 757 | backend: opencv | codec: mp4v
+- **Capsule size:** 12.41 MB video + 0.88 MB index
 - **Status:** OK
 
 Query pattern (any future session):
